@@ -1,0 +1,428 @@
+?findAGraveID,!newId,?name,?birthdays,?birthplaces,?deathdays,?deathplaces,?burials,?plots,?siblings
+1,,Cleveland Abbe,1838-12-03T00:00:00Z,"New York, New York County, New York, USA",1916-10-28T00:00:00Z,"Chevy Chase, Montgomery County, Maryland, USA",Rock Creek Cemetery,"Section M, Lot 292, Range 5",Walter Abbe
+10,,Jane Addams,1860-09-06T00:00:00Z,"Cedarville, Stephenson County, Illinois, USA",1935-05-21T00:00:00Z,"Chicago, Cook County, Illinois, USA",Cedarville Cemetery,"Front right section, Row 9, Lot 8",Mary Catherine Addams Linn
+100,,Mel Blanc,1908-05-30T00:00:00Z,"San Francisco, San Francisco County, California, USA",1989-07-10T00:00:00Z,"Los Angeles, Los Angeles County, California, USA",Hollywood Forever,"Garden of the Exodus (formerly Pineland, Section 13), Lot 149, Grave 102 (next to the road)",Henry Charles Blanc
+1000,,Margaret Sullavan,1909-05-16T00:00:00Z,"Norfolk, Norfolk City, Virginia, USA",1960-01-01T00:00:00Z,"New Haven, New Haven County, Connecticut, USA",Saint Mary's Whitechapel Episcopal Churchyard,,Cornelius Hancock Sullavan Jr
+10000,,Fred MacLeod Wilcox,1907-12-22T00:00:00Z,"Tazewell, Tazewell County, Virginia, USA",1964-09-23T00:00:00Z,"Los Angeles, Los Angeles County, California, USA",Forest Lawn Memorial Park,"Gardens of Memory, Map #01, Single Garden Crypt 919",Zorah W. Wilcox Furman
+100003599,,Charles Henry “Rucker Charlie” Blackwell,1894-12-12T00:00:00Z,"Brandenburg, Meade County, Kentucky, USA",1935-04-22T00:00:00Z,"Proviso Township, Cook County, Illinois, USA",Cap Anderson Cemetery,,Arthur Blackwell
+100003871,,Betty,1930-11-02T00:00:00Z,"Eustis, Lake County, Florida, USA",2012-10-31T00:00:00Z,"Ashland, Clay County, Alabama, USA",Ashland City Cemetery,,Louise Brooks Nolen
+100008549,,Thomas Malie,1897-02-26T00:00:00Z,"Pittsburgh, Allegheny County, Pennsylvania, USA",1932-07-31T00:00:00Z,"Chicago, Cook County, Illinois, USA",All Saints Catholic Cemetery and Mausoleum,,
+100009293,,Edith Widing,1895-02-26T00:00:00Z,,1961-02-26T00:00:00Z,,Cousins Island Cemetery,,
+10001,,J. Henry Kolker,1870-11-13T00:00:00Z,"Berlin, Germany",1947-07-15T00:00:00Z,"Los Angeles, Los Angeles County, California, USA",Forest Lawn Memorial Park,"Everlasting Love Section, Map #A16, Lot 867, Single Ground Interment Space 4",Maria Magdalena Kolker
+100019607,,Lucile,1889-02-26T00:00:00Z,,1943-10-21T00:00:00Z,"Reno, Washoe County, Nevada, USA",,,
+10002,,Hal Hays LeSueur,1903-09-03T00:00:00Z,"San Antonio, Bexar County, Texas, USA",1963-05-03T00:00:00Z,"Los Angeles, Los Angeles County, California, USA",Forest Lawn Memorial Park,"Fidelity, Lot 1536",Joan Crawford
+100024864,,Dr Seweryn Chomet,1930-05-06T00:00:00Z,Poland,2009-07-24T00:00:00Z,"Greater London, England",Bushey Jewish Cemetery,ZC Row 1 Grave 21,
+100025167,,Dr Berthold Hatschek,1854-04-03T00:00:00Z,"Skrben, Okres Olomouc, Olomouc, Czech Republic",1941-01-18T00:00:00Z,"Vienna, Wien Stadt, Vienna, Austria",Wiener Zentralfriedhof,I. TOR 19-1-104,
+10003,,Hugh Conway,1886-07-17T00:00:00Z,"Graceville, Big Stone County, Minnesota, USA",1952-10-11T00:00:00Z,"Pacific Palisades, Los Angeles County, California, USA",Forest Lawn Memorial Park,"Gardens of Memory, Map #01, Single Garden Crypt 459",Edward Conway
+100033982,,Donald Eugene “Don” Cherry,1936-11-18T00:00:00Z,"Oklahoma City, Oklahoma County, Oklahoma, USA",1995-10-19T00:00:00Z,"Málaga, Provincia de Málaga, Andalucia, Spain",,,
+100035421,,Jane Allen,1801-08-26T00:00:00Z,England,1882-10-18T00:00:00Z,"Philadelphia, Philadelphia County, Pennsylvania, USA",Trinity Oxford Episcopal Churchyard,Lot 146 Loc B1 Stone 1,
+100035474,,John Richard Savage,1823-05-09T00:00:00Z,,1900-06-08T00:00:00Z,,Trinity Oxford Episcopal Churchyard,Lot 146 Loc B1 Stone 3,
+100039076,,Elmer Ellsworth Brown,1861-08-28T00:00:00Z,"Kiantone, Chautauqua County, New York, USA",1934-11-03T00:00:00Z,"Bronx, Bronx County, New York, USA",Woodmere Cemetery,Section G Lot 155,Isaac Eddy Brown
+10004,,George Fitzmaurice,1885-02-13T00:00:00Z,"Paris, City of Paris, Île-de-France, France",1940-06-13T00:00:00Z,"Los Angeles, Los Angeles County, California, USA",Forest Lawn Memorial Park,"Sunrise Slope section, Map #01, Lot 3432, Single Ground Interment Space 5",
+10004164,,Minnie,1869-02-26T00:00:00Z,"Manhattan, New York County, New York, USA",1922-12-03T00:00:00Z,"Manhattan, New York County, New York, USA",Greenwood Union Cemetery,,Sophie Lindauer Davis
+10004528,,William Caslon,1692-02-26T00:00:00Z,"Cradley, Metropolitan Borough of Dudley, West Midlands, England",1766-01-23T00:00:00Z,"Bethnal Green, London Borough of Tower Hamlets, Greater London, England",St Luke Churchyard,,
+10004548,,George Dance,1695-02-26T00:00:00Z,England,1768-02-08T00:00:00Z,"London, City of London, Greater London, England",St Luke Churchyard,,
+10004555,,Robert Courtleigh,1916-10-23T00:00:00Z,"Rye, Westchester County, New York, USA",2004-11-21T00:00:00Z,"Hollywood, Los Angeles County, California, USA",,,Stephen Edward Courtleigh
+10004605,,David Bailey,1933-10-27T00:00:00Z,"Newark, Essex County, New Jersey, USA",2004-11-25T00:00:00Z,"Los Angeles, Los Angeles County, California, USA",,,
+10004608,,Eunice White,1812-08-26T00:00:00Z,"Sutton, Worcester County, Massachusetts, USA",1897-03-08T00:00:00Z,"Stamford, Fairfield County, Connecticut, USA",Green-Wood Cemetery,"Section 140, Lot 25911",Maria Waters Bullard Barton
+100049698,,Charles Townsend,1834-12-21T00:00:00Z,"Harrisville, Harrison County, Ohio, USA",1900-01-12T00:00:00Z,"Athens, Athens County, Ohio, USA",West Union Street Cemetery,Section 12,Joseph Townsend
+10004998,,Marc Claude Boileau,1932-09-03T00:00:00Z,"Pointe-Claire, Montreal Region, Quebec, Canada",2000-12-27T00:00:00Z,"Pointe-Claire, Montreal Region, Quebec, Canada",,,
+10005092,,Eugene Matthew Brabender,1941-08-16T00:00:00Z,"Madison, Dane County, Wisconsin, USA",1996-12-27T00:00:00Z,"Madison, Dane County, Wisconsin, USA",Saint Barnabas Cemetery,,Caryl M. Brabender Zander
+10005486,,Sam Katzman,1901-07-07T00:00:00Z,"New York, New York County, New York, USA",1973-08-04T00:00:00Z,"Hollywood, Los Angeles County, California, USA",Hillside Memorial Park,"Mausoleum, Memorial Court, North Wall, Crypt 316",
+100055128,,Antonio Maceo Smith,1903-04-16T00:00:00Z,"Texarkana, Bowie County, Texas, USA",1977-12-19T00:00:00Z,"Dallas, Dallas County, Texas, USA",Restland Memorial Park,Garden of Whispering Waters,
+10005574,,María Casares,1922-11-21T00:00:00Z,"A Coruña, Provincia da La Coruña, Galicia, Spain",1996-11-22T00:00:00Z,"La Vergne, Departement de la Charente-Maritime, Poitou-Charentes, France",Cimetière d'Alloué,,
+10005672,,Cornelius Ryan,1920-06-05T00:00:00Z,"Dublin, County Dublin, Ireland",1974-11-23T00:00:00Z,"Manhattan, New York County, New York, USA",Ridgebury Cemetery,,
+100058172,,Muriel Hazel Wright,1889-03-31T00:00:00Z,"Lehigh, Coal County, Oklahoma, USA",1975-02-27T00:00:00Z,"Oklahoma City, Oklahoma County, Oklahoma, USA",Rose Hill Burial Park,,Gertrude Wright Reid
+10005877,,Kathryn Ann,1925-08-03T00:00:00Z,"Rose Hill, Mahaska County, Iowa, USA",1993-02-16T00:00:00Z,"Vero Beach, Indian River County, Florida, USA",Saint Stephens Church Crypt and Columbarium,,Madolyn Jean Morgan
+10006016,,Rudolf Hess,1894-04-26T00:00:00Z,"Alexandria, Al Iskandariyah, Egypt",1987-08-17T00:00:00Z,"Wilhelmstadt, Spandau, Berlin, Germany",Friedhof Wunsiedel,,
+10006551,,Bernice Petkere,1901-08-11T00:00:00Z,"Chicago, Cook County, Illinois, USA",2000-01-07T00:00:00Z,"Los Angeles, Los Angeles County, California, USA",Hollywood Forever,"Abbey of the Psalms, Sanctuary of Faith (E-3), West Wall, #1273",
+100065800,,Mary “Molly”,1915-11-05T00:00:00Z,"Rangoon, East Yangon District, Yangon Region, Myanmar",1993-06-04T00:00:00Z,"Tanworth-in-Arden, Stratford-on-Avon District, Warwickshire, England",St Mary Magdalene Churchyard,,
+100068599,,Rev William Wallace Fenn,1862-02-12T00:00:00Z,"Boston, Suffolk County, Massachusetts, USA",1932-03-06T00:00:00Z,"Cambridge, Middlesex County, Massachusetts, USA",Maple Grove Cemetery,,
+10007,,Lester Flatt,1914-06-19T00:00:00Z,"Overton County, Tennessee, USA",1979-05-11T00:00:00Z,"Nashville, Davidson County, Tennessee, USA",Oak Lawn Memorial Cemetery,Lillies 51-3,Andrew Jackson Flatt
+10007273,,Pierre Berton,1920-07-12T00:00:00Z,"Whitehorse, Yukon Census Division, Yukon, Canada",2004-11-30T00:00:00Z,"Toronto, Toronto Municipality, Ontario, Canada",,,Lucy Florence Beatrice Berton Woodward
+100074050,,Mary Vanzant,1850-10-23T00:00:00Z,"New York, USA",1929-12-30T00:00:00Z,"San Francisco, San Francisco County, California, USA",Cypress Lawn Memorial Park,,
+100074420,,Dr Mary T. Harman,1877-08-21T00:00:00Z,"Indiana, USA",1961-07-16T00:00:00Z,"Elizabeth City, Pasquotank County, North Carolina, USA",Memory Gardens,,Stella Harman Brandenburg
+10007486,,Rev Theodore Bayley Hardy,1863-10-20T00:00:00Z,"Exeter, City of Exeter, Devon, England",1918-10-18T00:00:00Z,"Rouen, Departement de la Seine-Maritime, Haute-Normandie, France",Saint Sever Cemetery Extension,S.V.J.1.,
+10007773,,Sgt William Herbert Waring,1885-10-13T00:00:00Z,"Welshpool, Powys, Wales",1918-10-08T00:00:00Z,"Ronssoy, Departement de la Somme, Picardie, France",Sainte Marie Cemetery,"Div. 62., V.I.3.",
+100078802,,Sophronia,1829-11-29T00:00:00Z,"Person County, North Carolina, USA",1909-02-08T00:00:00Z,"Oxford, Granville County, North Carolina, USA",Elmwood Cemetery,,Rev Junius Pulliam Moore
+10008,,Archie Campbell,1914-11-07T00:00:00Z,"Bulls Gap, Hawkins County, Tennessee, USA",1987-08-29T00:00:00Z,"Knoxville, Knox County, Tennessee, USA",Glenwood Cemetery,,Irene Bertha Campbell Hendry
+100080634,,Alexey Nikolayevich Verstovsky,1799-03-01T00:00:00Z,"Tambov Oblast, Russia",1862-11-17T00:00:00Z,"Moscow, Moscow Federal City, Russia",Vagankovskoye Cemetery,2,
+100080980,,Virginia H,1806-07-04T00:00:00Z,"Lynchburg City, Virginia, USA",1895-06-02T00:00:00Z,"Saint Louis, St. Louis City, Missouri, USA",The Lexington Cemetery,"Section D, Lot 2",Susan Harrison Brent
+100081660,,Susan Alexander,1933-09-12T00:00:00Z,"Saint Louis, St. Louis City, Missouri, USA",1977-11-28T00:00:00Z,"London, City of London, Greater London, England",Glenwood Cemetery,"Sec. I, Lot 029","Cabanne Chenier ""C. C."" Smith"
+10008442,,William Lawes,1602-05-01T00:00:00Z,"Salisbury, Wiltshire Unitary Authority, Wiltshire, England",1645-09-24T00:00:00Z,"Chester, Cheshire West and Chester Unitary Authority, Cheshire, England",Chester Cathedral,,
+10008463,,Henry Lawes,1596-01-05T00:00:00Z,"Dinton, Wiltshire Unitary Authority, Wiltshire, England",1662-10-21T00:00:00Z,"London, City of London, Greater London, England",Westminster Abbey,,
+100084717,,Russell Weihr Finsterwald,1896-08-12T00:00:00Z,"Athens, Athens County, Ohio, USA",1962-06-13T00:00:00Z,"Athens, Athens County, Ohio, USA",West Union Street Cemetery,Section 13,Fredia Finsterwald Jones
+100087242,,Stepan Stepanovich Pimenov,1784-02-26T00:00:00Z,,1833-04-03T00:00:00Z,,Свято-Троицкая Александро-Невская Лавра,,
+100087737,,Maj Louis Anthony Snaer,1842-06-13T00:00:00Z,"New Orleans, Orleans Parish, Louisiana, USA",1917-06-18T00:00:00Z,"Los Angeles County, California, USA",Calvary Cemetery,,
+100088020,,Harriet Leonora,1856-07-30T00:00:00Z,"Quincy, Adams County, Illinois, USA",1886-03-13T00:00:00Z,"Brookline, Norfolk County, Massachusetts, USA",Harmony Grove Cemetery,"Lot 1557, Grave 1, Larch Path (George L. Vose plot)",Mabel Vose
+100088119,,Arlo Bates,1850-12-16T00:00:00Z,"East Machias, Washington County, Maine, USA",1918-08-26T00:00:00Z,"Boston, Suffolk County, Massachusetts, USA",Harmony Grove Cemetery,"Cremated. Lot 1557, Grave 7, Larch Path (George L. Vose plot)",
+100088218,,Nikolai Stepanovich Pimenov,1812-12-06T00:00:00Z,,1864-12-17T00:00:00Z,,Свято-Троицкая Александро-Невская Лавра,,
+100089907,,Robert Simpson Wood,1887-02-26T00:00:00Z,,1949-04-20T00:00:00Z,"Columbus, Franklin County, Ohio, USA",West Union Street Cemetery,Section 13,Augustus Palmer Wood
+100093008,,Dr Sigmund Gundle,1915-02-06T00:00:00Z,,1996-08-01T00:00:00Z,,Mount Carmel Cemetery,Section 10,
+100093084,,Evgeny Victorovich Vuchetich,1908-12-28T00:00:00Z,"Dnipropetrovska, Ukraine",1974-04-12T00:00:00Z,"Moscow Federal City, Russia",Novodevichye Cemetery,,
+1001,,Ed Sullivan,1901-09-28T00:00:00Z,"Harlem, New York County, New York, USA",1974-10-13T00:00:00Z,"Manhattan, New York County, New York, USA",Ferncliff Cemetery and Mausoleum,"Ferncliff Mausoleum, Unit 8, Alcove G, Crypt 122",Helen Agnes Sullivan Culyer
+100102475,88066179,George Lee Thurston III,1925-10-01T00:00:00Z,"Culpeper, Culpeper County, Virginia, USA",2001-03-20T00:00:00Z,"Tallahassee, Leon County, Florida, USA",Oakland Cemetery,"Block / Lot or Sec # / Space J / LOT 28, SEC 2 / 1, Lot Descr",
+100105902,,John Cunneen,1848-05-18T00:00:00Z,"Ennis, County Clare, Ireland",1907-02-21T00:00:00Z,"Buffalo, Erie County, New York, USA",Saint Joseph's Cemetery,Section C,Cornelius Cunneen
+10011,,Jack Anglin,1916-05-13T00:00:00Z,"Columbia, Maury County, Tennessee, USA",1963-03-07T00:00:00Z,"Nashville, Davidson County, Tennessee, USA",Forest Lawn Memorial Gardens,Garden of Last Supper,George W. Anglin
+100116036,,Milt Campbell,1933-12-09T00:00:00Z,"Plainfield, Union County, New Jersey, USA",2012-11-02T00:00:00Z,"Gainesville, Hall County, Georgia, USA",,,
+100116928,,Jacob Sylvester Bugh,1826-01-23T00:00:00Z,"Somerset, Perry County, Ohio, USA",1901-10-23T00:00:00Z,"Wautoma, Waushara County, Wisconsin, USA",Wautoma Union Cemetery,"Old Grounds, Row B, Lot 67",Eliza Jane Bugh Hodge
+100117588,,Lucy Smith,1802-10-04T00:00:00Z,"Kentucky, USA",1885-12-25T00:00:00Z,"San Francisco, San Francisco County, California, USA",Cypress Lawn Memorial Park,Section E,John Jordan Crittenden Jr
+100118336,,Edward John McDermott Sr.,1852-10-29T00:00:00Z,"Louisville, Jefferson County, Kentucky, USA",1926-05-01T00:00:00Z,"Louisville, Jefferson County, Kentucky, USA",Cave Hill Cemetery,,
+10012,,Speck Rhodes,1915-07-16T00:00:00Z,"West Plains, Howell County, Missouri, USA",2000-03-19T00:00:00Z,"Nashville, Davidson County, Tennessee, USA",Spring Hill Cemetery,Meadow Ridge,"Ethmer Cletus ""Slim"" Rhodes"
+100121723,76319614,Ferdinand III Grand Duke of Tuscany,1769-05-06T00:00:00Z,"Florence, Città Metropolitana di Firenze, Toscana, Italy",1824-06-18T00:00:00Z,"Florence, Città Metropolitana di Firenze, Toscana, Italy",Basilica di San Lorenzo,,Maria Theresia of Habsburg
+100122356,,Joseph C Wery,1836-09-29T00:00:00Z,Belgium,1907-10-24T00:00:00Z,"Champion, Brown County, Wisconsin, USA",Saint Louis Catholic Cemetery,,
+100122909,,Henry A. Lorberg,1856-02-26T00:00:00Z,,1943-02-26T00:00:00Z,,Greenlawn Cemetery,SECTION-  NORTH CITY,Samuel Lorberg
+100124783,,Michelle,1968-12-08T00:00:00Z,,1987-02-24T00:00:00Z,"Lakeland, Polk County, Florida, USA",Oak Hill Burial Park,,
+100126496,,Theresa Ann “Tressie”,1897-02-07T00:00:00Z,"Frankfort, Marshall County, Kansas, USA",1995-01-17T00:00:00Z,"San Francisco, San Francisco County, California, USA",Frankfort Cemetery,,Edward C. Harris
+100129013,,Karo Semenovich Alabyan,1897-07-26T00:00:00Z,"Ganja, Ganca City District, Azerbaijan",1959-01-05T00:00:00Z,"Moscow, Moscow Federal City, Russia",Novodevichye Cemetery,5,
+10013,,Mae,1914-09-14T00:00:00Z,"Bardwell, Ellis County, Texas, USA",1997-04-09T00:00:00Z,"Hendersonville, Sumner County, Tennessee, USA",Hendersonville Memory Gardens,Main Mausoleum,William Damos Boren
+100130674,,William Alonzo “Cat” Anderson,1916-09-12T00:00:00Z,"Greenville, Greenville County, South Carolina, USA",1981-04-29T00:00:00Z,"Norwalk, Los Angeles County, California, USA",,,
+100130755,,Dr Daniel Sharp,1783-12-25T00:00:00Z,"Huddersfield, Metropolitan Borough of Kirklees, West Yorkshire, England",1853-06-23T00:00:00Z,"Stoneleigh, Baltimore County, Maryland, USA",Mount Auburn Cemetery,,
+100130973,,Franklin Elmore Kennamer,1879-01-12T00:00:00Z,"Kennamer Cove, Marshall County, Alabama, USA",1960-05-01T00:00:00Z,"Chelsea, Rogers County, Oklahoma, USA",Chelsea Cemetery,,Seaborn Kennamer Jr
+100132635,,Ivan Nikolaevich Perestiani,1870-04-13T00:00:00Z,"Taganrog, Rostov Oblast, Russia",1959-05-14T00:00:00Z,"Moscow, Moscow Federal City, Russia",Novodevichye Cemetery,5,
+100133768,,Donald Tecumseh “Tee” Carson,1929-12-04T00:00:00Z,"Washington, District of Columbia, District of Columbia, USA",2000-02-13T00:00:00Z,"Cedar Park, Williamson County, Texas, USA",,,
+100135358,,Cecil Francis Poole,1914-06-25T00:00:00Z,"Birmingham, Jefferson County, Alabama, USA",1997-11-12T00:00:00Z,"San Rafael, Marin County, California, USA",,,Marjorie Ellen Poole Morsell
+100135551,,Dunham Jackson,1888-07-24T00:00:00Z,"Bridgewater, Plymouth County, Massachusetts, USA",1946-11-06T00:00:00Z,"Hennepin County, Minnesota, USA",Sunset Memorial Park Cemetery,Block 1,Dr Elizabeth Jackson
+100135707,,Harold E. Wise,1903-02-26T00:00:00Z,,1969-02-27T00:00:00Z,"Columbus, Franklin County, Ohio, USA",West Union Street Cemetery,Section 13,
+100136175,91469199,Maria Clementina - Archduchess of Austria,1777-04-24T00:00:00Z,"Arcetri, Città Metropolitana di Firenze, Toscana, Italy",1801-11-15T00:00:00Z,"Naples, Città Metropolitana di Napoli, Campania, Italy",Chiesa Santa Chiara,,Maria Theresia of Habsburg
+100136335,,Francesco I of Bourbon-Sicily,1777-08-20T00:00:00Z,"Naples, Città Metropolitana di Napoli, Campania, Italy",1830-11-11T00:00:00Z,"Naples, Città Metropolitana di Napoli, Campania, Italy",Chiesa Santa Chiara,,Maria Theresa of Naples-Sicily
+100136817,,Leopold of Bourbon-Sicily,1790-07-02T00:00:00Z,"Naples, Città Metropolitana di Napoli, Campania, Italy",1851-03-10T00:00:00Z,"Naples, Città Metropolitana di Napoli, Campania, Italy",Chiesa Santa Chiara,,Maria Theresa of Naples-Sicily
+100137606,,Jeremy Frank Maule,1952-08-11T00:00:00Z,"Wuppertal, Stadtkreis Wuppertal, Nordrhein-Westfalen, Germany",1998-11-25T00:00:00Z,"Cambridge, City of Cambridge, Cambridgeshire, England",Ascension Parish Burial Ground,,
+100138217,,Semyon Ilyich Bogdanov,1894-08-29T00:00:00Z,,1960-03-12T00:00:00Z,,Novodevichye Cemetery,,
+100138641,,Frank Otto Weddig,1944-11-01T00:00:00Z,,2012-10-26T00:00:00Z,"Colorado, USA",Fort Logan National Cemetery,"Section 35, Site 962",
+100142392,,Henry Waterman Warren,1838-03-18T00:00:00Z,"Massachusetts, USA",1919-02-21T00:00:00Z,"Holden, Worcester County, Massachusetts, USA",Grove Cemetery,,
+10014337,55869690,SSGT Andrew Miller,1916-08-11T00:00:00Z,"Manitowoc, Manitowoc County, Wisconsin, USA",1944-11-29T00:00:00Z,Germany,Lorraine American Cemetery and Memorial,Plot A Row 26 Grave 1,Marie Miller Grassmann Nennig
+100145764,,Louise Maertz,1837-02-26T00:00:00Z,"Quincy, Adams County, Illinois, USA",1918-02-03T00:00:00Z,"Quincy, Adams County, Illinois, USA",Woodland Cemetery,"Block 10, lot 250",Ottilia Maertz Durant
+10014633,55869850,Frederick Coleman Murphy,1918-07-27T00:00:00Z,"Boston, Suffolk County, Massachusetts, USA",1945-03-19T00:00:00Z,Germany,Lorraine American Cemetery and Memorial,"Plot F, Row 11, Grave 19",
+10015,,Del Wood,1920-02-22T00:00:00Z,"Nashville, Davidson County, Tennessee, USA",1989-10-03T00:00:00Z,"Nashville, Davidson County, Tennessee, USA",Mount Olivet Cemetery,"Section 23, Plot 41",Emily Frances Hendricks Burge
+100155173,,Rev Caspar Erasmus Schieler,1851-07-14T00:00:00Z,,1934-01-13T00:00:00Z,,Saint John's United Church of Christ Cemetery,,
+10016,,Martha Elizabeth Moxley,1960-08-16T00:00:00Z,"San Francisco, San Francisco County, California, USA",1975-10-30T00:00:00Z,"Belle Haven, Fairfield County, Connecticut, USA",Putnam Cemetery,Moxley Family plot,
+100170799,,Dr Alfred Bennison Atherton,1843-01-22T00:00:00Z,,1921-03-07T00:00:00Z,,Greenwood Memorial Park,,Mary A Atherton Smith
+100173234,,Reginald Stewart Oxley,1861-12-31T00:00:00Z,,1951-10-04T00:00:00Z,,St Nicholas Churchyard,,
+100179828,,Leopold Lindtberg,1902-06-01T00:00:00Z,"Wien Stadt, Vienna, Austria",1984-04-18T00:00:00Z,"Sils-Segl Maria, Bezirk Maloja, Graubünden, Switzerland",Friedhof Enzenbühl,,
+10018,,Emma Lazarus,1849-07-22T00:00:00Z,"New York, New York County, New York, USA",1887-11-19T00:00:00Z,"New York, New York County, New York, USA",Beth Olom Cemetery,,Sarah Lazarus
+100181558,,Phineas Josephus Clawson,1839-10-27T00:00:00Z,"Greene County, Pennsylvania, USA",1910-08-09T00:00:00Z,"Monroe, Green County, Wisconsin, USA",Greenwood Cemetery,"Block 12, Lot 9, Row 17",Rhoda Clawson Murdock
+100187631,,Henrietta,1914-10-09T00:00:00Z,"Bountiful, Davis County, Utah, USA",1961-06-18T00:00:00Z,"Salt Lake City, Salt Lake County, Utah, USA",Bountiful Memorial Park,,Benjamin George Gunn
+100188225,,Russell Edward “Rusty Day” Davidson,1945-12-29T00:00:00Z,"Detroit, Wayne County, Michigan, USA",1982-06-03T00:00:00Z,"Longwood, Seminole County, Florida, USA",,,
+100188274,98522871,Fr Herbert Anthony Musurillo,1917-06-13T00:00:00Z,"Manhattan, New York County, New York, USA",1974-05-27T00:00:00Z,"New York, USA",Jesuit Cemetery,Left side of cemetery,
+100189183,,Donald Sterling Palmer Howard,1891-06-14T00:00:00Z,"Greater London, England",1959-02-22T00:00:00Z,"Greater London, England",Kilchattan Old Graveyard,By the West boundary,
+10019,4309,MAJ Glenn Miller,1904-03-01T00:00:00Z,"Clarinda, Page County, Iowa, USA",1944-12-15T00:00:00Z,At Sea,Arlington National Cemetery,"Memorial Section H, Number 464-A, on Wilson Drive",Son Miller
+100190101,,Joan Margaret,1908-04-28T00:00:00Z,,1989-08-23T00:00:00Z,,Spynie Churchyard,126,Alister Gladstone MacDonald
+100190176,,Sheila Ramsay,1910-12-07T00:00:00Z,"Bloomsbury, London Borough of Camden, Greater London, England",1994-07-22T00:00:00Z,"Swansea, Wales",Spynie Churchyard,126,Alister Gladstone MacDonald
+100190318,,David Ramsay MacDonald,1904-07-04T00:00:00Z,,1910-02-03T00:00:00Z,,Spynie Churchyard,,Alister Gladstone MacDonald
+100191088,,Alister Gladstone MacDonald,1898-05-18T00:00:00Z,"London, City of London, Greater London, England",1993-03-22T00:00:00Z,"Brighton, Brighton and Hove Unitary Authority, East Sussex, England",Spynie Churchyard,126,Malcolm John MacDonald
+100191685,,Ishbel Allan,1903-03-02T00:00:00Z,"Holborn, London Borough of Camden, Greater London, England",1982-06-14T00:00:00Z,"Lossiemouth, Moray, Scotland",Spynie Churchyard,,Alister Gladstone MacDonald
+100194741,,Dr James Morrison Bodine,1831-10-02T00:00:00Z,"Fairfield, Nelson County, Kentucky, USA",1915-01-25T00:00:00Z,"Louisville, Jefferson County, Kentucky, USA",Cave Hill Cemetery,"Sect. 1, Lot 30, Gr. 1",
+100195127,,Rev John Emery Abbot,1793-08-06T00:00:00Z,"Exeter, Rockingham County, New Hampshire, USA",1819-10-07T00:00:00Z,"Salem, Essex County, Massachusetts, USA",Exeter Cemetery,Lot 105 - Grave 11,
+1002,,John L. Sullivan,1858-10-15T00:00:00Z,"Roxbury, Suffolk County, Massachusetts, USA",1918-02-02T00:00:00Z,"Abington, Plymouth County, Massachusetts, USA",Mount Calvary Cemetery,"Section 3, Lot 24, Grave 3",Michael F Sullivan
+10020,,Marjorie Lawrence,1907-02-17T00:00:00Z,"Deans Marsh, Surf Coast Shire, Victoria, Australia",1979-01-13T00:00:00Z,"Little Rock, Pulaski County, Arkansas, USA",Greenwood Cemetery,,Vera Mabel Lawrence
+100202791,,Emma,1871-08-26T00:00:00Z,"Nebraska, USA",1956-09-05T00:00:00Z,"Multnomah County, Oregon, USA",River View Cemetery,"Sec 123, Lot 69, Grave 2",
+100210454,,Maude E. F.,1860-11-19T00:00:00Z,,1932-04-11T00:00:00Z,"Natchez, Adams County, Mississippi, USA",Natchez City Cemetery,Fields,Alice B. Kingsbury
+100223797,,Yuri Sergeyevich Milutin,1903-04-18T00:00:00Z,,1968-06-09T00:00:00Z,,Novodevichye Cemetery,,
+100228419,,Ruth,1794-02-26T00:00:00Z,,1832-02-26T00:00:00Z,,Spring Hill Cemetery,Sec-U Lot-9 Spc-8A,Peter Hairston
+10023053,,Michael Whalen,1902-06-30T00:00:00Z,"Wilkes-Barre, Luzerne County, Pennsylvania, USA",1974-04-14T00:00:00Z,"Woodland Hills, Los Angeles County, California, USA",San Fernando Mission Cemetery,,Mary Louise Shovlin Rafferty
+10023171,,Theophano Sklerina of Byzantium,0956-02-26T00:00:00Z,,0991-06-15T00:00:00Z,"Nijmegen, Nijmegen Municipality, Gelderland, Netherlands",Sankt Pantaleon,,
+100234116,,Julie Manet,1878-11-14T00:00:00Z,"Paris, City of Paris, Île-de-France, France",1966-07-14T00:00:00Z,"Paris, City of Paris, Île-de-France, France",Passy Cemetery,,
+100234152,,Dr Alexander Dougall Blackader,1847-06-19T00:00:00Z,"Montreal Region, Quebec, Canada",1932-03-14T00:00:00Z,"Montreal Region, Quebec, Canada",Cimetière Mont-Royal,F9 - 780A,Drummond Redpath Blackader
+10023661,,Kenne Duncan,1902-02-17T00:00:00Z,"Chatham, Chatham-Kent Municipality, Ontario, Canada",1972-02-05T00:00:00Z,"Hollywood, Los Angeles County, California, USA",Grand View Memorial Park and Crematory,"Garden of Devotion, Tier B, Grave 35",
+10023715,,Karl Hackett,1893-09-05T00:00:00Z,"Carthage, Jasper County, Missouri, USA",1948-10-24T00:00:00Z,"Los Angeles, Los Angeles County, California, USA",Los Angeles National Cemetery,"Section 118, Row B, Site 19",
+10023721,,Klaus Barbie,1913-10-25T00:00:00Z,"Bad Godesberg, Stadtkreis Bonn, Nordrhein-Westfalen, Germany",1991-09-25T00:00:00Z,"Lyon, Departement du Rhône, Rhône-Alpes, France",,,
+10023725,,Joseph Sumner Gage,1836-07-23T00:00:00Z,"South Paris, Oxford County, Maine, USA",1906-03-10T00:00:00Z,"San Jose, Santa Clara County, California, USA",Oak Hill Memorial Park,"G.A.R. Tier 6, Lot 9",Mary Eliza Gage Briggs
+100237906,,Leonardo Favio,1938-05-28T00:00:00Z,"Las Catitas, Departamento de Santa Rosa, Mendoza, Argentina",2012-11-05T00:00:00Z,"Buenos Aires, Ciudad Autónoma de Buenos Aires, Capital Federal, Argentina",Cementerio de la Chacarita,Panteón Sociedad Argentina de Autores y Compositores de Música (SADAIC),
+10023806,,Sydney Walker,1921-05-05T00:00:00Z,"Philadelphia, Philadelphia County, Pennsylvania, USA",1994-09-30T00:00:00Z,"San Francisco, San Francisco County, California, USA",,,
+100238180,,Edwin Nelson Hubbell,1815-08-15T00:00:00Z,"Coxsackie, Greene County, New York, USA",1897-02-05T00:00:00Z,"Nyack, Rockland County, New York, USA",Albany Rural Cemetery,"Section 74, Lot E 1/2 8",
+10023893,,Hooper Atchley,1887-04-30T00:00:00Z,"Ebenezer, Knox County, Tennessee, USA",1943-11-17T00:00:00Z,"Hollywood, Los Angeles County, California, USA",Open Door Church Cemetery,,Ardia May Atchley
+10024106,,Steve Clark,1891-02-26T00:00:00Z,"Daviess County, Indiana, USA",1954-06-29T00:00:00Z,"Van Nuys, Los Angeles County, California, USA",Valhalla Memorial Park,"Lot 3, Section 11705",
+10024225,,Bud Osborne,1884-07-20T00:00:00Z,"Knox County, Texas, USA",1964-02-02T00:00:00Z,"Woodland Hills, Los Angeles County, California, USA",Forest Lawn Memorial Park,"Cts of Remembrance sec, Columbarium of Remembrance, Map #1E4 (R wall), Outdoor Gdn Niche 60688",
+10024390,,Jack Rockwell,1890-10-06T00:00:00Z,"Veracruz, Veracruz Municipality, Veracruz de Ignacio de la Llave, Mexico",1947-11-10T00:00:00Z,"Los Angeles, Los Angeles County, California, USA",Forest Lawn Memorial Park,"Great Mausoleum, Columbarium of Solace, Iris Terrace, Niche 21733",Charles Trowbridge
+10024475,,William Starling Sullivant Sr.,1803-01-15T00:00:00Z,"Franklin County, Ohio, USA",1873-04-30T00:00:00Z,"Ohio, USA",Green Lawn Cemetery,"Section P, Lot No. 1",Michael Lucas Sullivant
+10024548,,Steve Wayne,1920-08-29T00:00:00Z,"Saint Augustine, St. Johns County, Florida, USA",2004-09-05T00:00:00Z,"Los Angeles, Los Angeles County, California, USA",Hollywood Forever,"Section 8 (Garden of Legends), Lot 2300, Grave CP8A",
+10024558,,Harry “The Horse” Danning,1911-09-06T00:00:00Z,"Los Angeles, Los Angeles County, California, USA",2004-11-29T00:00:00Z,"Valparaiso, Porter County, Indiana, USA",,,
+100245895,,Shreeram S. Abhyankar,1930-07-22T00:00:00Z,India,2012-11-02T00:00:00Z,"West Lafayette, Tippecanoe County, Indiana, USA",,,
+10024683,,George Lawson Sheldon,1870-05-31T00:00:00Z,"Nehawka, Cass County, Nebraska, USA",1960-04-04T00:00:00Z,"Greenville, Washington County, Mississippi, USA",Greenville Cemetery,,Gertrude A Sheldon Wolph
+10024810,,Lawrence Carthage Weathers,1890-05-14T00:00:00Z,"Te Kopuru, Kaipara District, Northland, New Zealand",1918-09-29T00:00:00Z,"Peronne, Departement de la Somme, Picardie, France",Unicorn Cemetery,III.C.5,Trooper Thomas Francis Weathers
+10024820,,Eliza Griscolm,1817-03-11T00:00:00Z,"Ohio, USA",1850-08-23T00:00:00Z,"Ohio, USA",Green Lawn Cemetery,"Section P, Lot No. 1",
+100249274,,Eliza Bird,1838-03-26T00:00:00Z,"Philadelphia, Philadelphia County, Pennsylvania, USA",1901-02-19T00:00:00Z,"San Francisco, San Francisco County, California, USA",Holy Cross Catholic Cemetery,"Sec E, Row 10, Area 5, Grave 3",Thomas Casey Van Ness Sr
+100250799,,Elliott Carter,1908-12-11T00:00:00Z,"New York, New York County, New York, USA",2012-11-05T00:00:00Z,"New York, New York County, New York, USA",Green-Wood Cemetery,,
+10025306,,Jack Kirk,1895-02-03T00:00:00Z,"Nickerson, Reno County, Kansas, USA",1948-09-03T00:00:00Z,"Ketchikan, Ketchikan Gateway Borough, Alaska, USA",Valhalla Memorial Park,"Memorial Block G, Section 7691, Lot 4",
+100253285,,Charles Macalester II,1798-02-17T00:00:00Z,"Philadelphia, Philadelphia County, Pennsylvania, USA",1873-12-09T00:00:00Z,"Philadelphia, Philadelphia County, Pennsylvania, USA",Laurel Hill Cemetery,Sect 10 lot 45,Margaretta Macalester Bacon
+100253506,,Thomas Van “Tommy” Thompson,1933-10-03T00:00:00Z,"Fort Worth, Tarrant County, Texas, USA",1982-10-29T00:00:00Z,"Los Angeles, Los Angeles County, California, USA",,,"Lawrence Duncan ""Larry"" Thompson"
+10025487,,John Henry Stephen Dimmer,1883-10-09T00:00:00Z,"Lambeth, London Borough of Lambeth, Greater London, England",1918-03-21T00:00:00Z,"Departement de l'Aisne, Picardie, France",Vadencourt British Cemetery,II.B.46.,
+100255943,,Sir Ambrose Cave,1502-02-26T00:00:00Z,"Stanford-on-Avon, Daventry District, Northamptonshire, England",1568-04-02T00:00:00Z,"Stanford-on-Avon, Daventry District, Northamptonshire, England",St. Nicholas's Churchyard,Chest tomb decorated with 3 roundels; shield above flanked by,Sir Thomas Cave
+10025700,,Clifford “Connie” Johnson Jr.,1922-12-27T00:00:00Z,"Stone Mountain, DeKalb County, Georgia, USA",2004-11-28T00:00:00Z,"Kansas City, Jackson County, Missouri, USA",Leavenworth National Cemetery,"Section 57, Row 6, Site 38",
+10025951,,Charles Stevens,1893-05-26T00:00:00Z,"Solomon, Graham County, Arizona, USA",1964-08-22T00:00:00Z,"Hollywood, Los Angeles County, California, USA",Valhalla Memorial Park,"Memorial H, Section 8989, Lot 6 (NM)",
+10026131,,Prince Bernhard,1911-06-29T00:00:00Z,"Jena, Stadtkreis Jena, Thüringen, Germany",2004-12-01T00:00:00Z,"Utrecht, Utrecht Municipality, Utrecht, Netherlands",Nieuwe Kerk,Oranje-Nassau Family Tomb,"Prinz Ernst Aschwin Georg Carol Heinrich Ignatz ""Erwin"" zur Lippe-Biesterfeld"
+10026221,,Harry Harvey Sr.,1901-01-10T00:00:00Z,"Oklahoma, USA",1985-11-27T00:00:00Z,"Sylmar, Los Angeles County, California, USA",Valhalla Memorial Park,"Lot 17, Section 933, Block L",
+100263790,,Patriarch Cyril Konstantin Markov Konstantinov,1901-01-03T00:00:00Z,"Sofia, Stolichna Obshtina, Sofia-grad, Bulgaria",1971-03-07T00:00:00Z,"Sofia, Stolichna Obshtina, Sofia-grad, Bulgaria",Bachkovo Monastery,,
+10026388,,Charlotte de Savoie,1441-11-11T00:00:00Z,France,1483-12-01T00:00:00Z,"Amboise, Departement d'Indre-et-Loire, Centre, France",Basilique Notre-Dame de Cléry-Saint-André,,Blessed Amadeo IX of Savoy
+10026410,,Charles VIII,1470-06-30T00:00:00Z,"Amboise, Departement d'Indre-et-Loire, Centre, France",1498-04-07T00:00:00Z,"Amboise, Departement d'Indre-et-Loire, Centre, France",Basilique Notre-Dame de Cléry-Saint-André,,
+100264480,,Alfred Corning Clark,1844-11-14T00:00:00Z,"New York, New York County, New York, USA",1896-04-08T00:00:00Z,"New York, New York County, New York, USA",Hudson City Cemetery,,Ambrose Jordan Clark
+10026583,,,,,,,,,
+100266694,,Margaret,1549-04-25T00:00:00Z,"Northamptonshire, England",1606-08-15T00:00:00Z,"Leicestershire, England",St. Nicholas's Churchyard,,
+100267030,,Alexander Alexandrovich Deineka,1899-05-20T00:00:00Z,"Kursk, Kursk Oblast, Russia",1969-06-12T00:00:00Z,"Moscow, Moscow Federal City, Russia",Novodevichye Cemetery,7,
+10027024,,George Merrill,1867-08-16T00:00:00Z,"Sheffield, Metropolitan Borough of Sheffield, South Yorkshire, England",1928-01-16T00:00:00Z,"Guildford, Guildford Borough, Surrey, England",Guildford Cemetery,,
+100270602,,Clifford Richard Rupert Shaw,1943-08-30T00:00:00Z,,1993-06-15T00:00:00Z,,Davidson Cemetery,23-E,"Alvin ""Al"" Shaw"
+100273711,,Katharine Maria,1884-05-23T00:00:00Z,"Denver, City and County of Denver, Colorado, USA",1979-09-17T00:00:00Z,"Denver, City and County of Denver, Colorado, USA",Riverside Cemetery,"Block 21, Lot 78, NW 1/4",Adrian Bruderlin
+100276266,,Edmund Parr,1849-03-30T00:00:00Z,,1925-03-17T00:00:00Z,"Patrick County, Virginia, USA","Stoops, Parr Cemetery",,
+100281185,,Joseph Rudolph “Philly Joe” Jones,1923-07-15T00:00:00Z,"Philadelphia, Philadelphia County, Pennsylvania, USA",1985-08-30T00:00:00Z,"Philadelphia, Philadelphia County, Pennsylvania, USA",,,
+10028277,43857622,Reb Russell,1905-05-31T00:00:00Z,"Osawatomie, Miami County, Kansas, USA",1978-03-16T00:00:00Z,"Coffeyville, Montgomery County, Kansas, USA",Fairview Cemetery,Section II - Lot 25 - Grave 1,
+100282911,,Herold James Weiler,1886-04-12T00:00:00Z,"Tioga, Hancock County, Illinois, USA",1945-11-18T00:00:00Z,"Refugio, Refugio County, Texas, USA",Oakwood Cemetery,"Section G, Row 5",Lewis Forest Weiler Sr
+10028446,,Joseph Spencer,1714-10-03T00:00:00Z,"East Haddam, Middlesex County, Connecticut, USA",1789-01-13T00:00:00Z,"East Haddam, Middlesex County, Connecticut, USA",Nathan Hale Park Cemetery,,Mary Spencer Cone
+10028580,,Theodore Wright,1883-05-15T00:00:00Z,"Hove, Brighton and Hove Unitary Authority, East Sussex, England",1914-09-14T00:00:00Z,"Vailly, Departement de l'Aube, Champagne-Ardenne, France",Vailly British Cemetery,II.B.21.,
+10028675,,Jay Wilsey,1896-02-06T00:00:00Z,"Hillsdale, St. Louis County, Missouri, USA",1961-10-25T00:00:00Z,"Los Angeles, Los Angeles County, California, USA",,,
+10029,,Mathias Alten,1871-02-13T00:00:00Z,"Gusenburg, Landkreis Trier-Saarburg, Rheinland-Pfalz, Germany",1938-03-08T00:00:00Z,"Grand Rapids, Kent County, Michigan, USA",Graceland Memorial Park and Mausoleum,,
+100291292,,Alvin Horace “Al” Ritchie,1890-12-12T00:00:00Z,"Simcoe County, Ontario, Canada",1966-02-21T00:00:00Z,"Regina, Regina Census Division, Saskatchewan, Canada",Riverside Memorial Park Cemetery,Plot: 22C-12-B (In the Ritchie Family Section) - North-West Area,"David John ""Jack"" Ritchie Jr"
+10029425,,Cecil Harold Sewell,1895-01-27T00:00:00Z,"Greenwich, Royal Borough of Greenwich, Greater London, England",1918-08-29T00:00:00Z,"Fremicourt, Departement du Pas-de-Calais, Nord-Pas-de-Calais, France",Vaulx Hill Cemetery,I.D.3.,
+10029558,,Juliett Louisa “Julia”,1853-04-27T00:00:00Z,"Indiana, USA",1948-04-01T00:00:00Z,"Columbus, Franklin County, Ohio, USA",Summit Lawn Cemetery,"Sect 2, Lot 75, Plot G",Flora Stout Kerr
+100296272,,Orville Watson Mosher,1853-11-08T00:00:00Z,"Waupun, Fond du Lac County, Wisconsin, USA",1933-10-05T00:00:00Z,"New Richmond, St. Croix County, Wisconsin, USA",New Richmond Cemetery,Lot 36 Section 1,
+100298947,,William Warden Kerr,1847-09-09T00:00:00Z,"Pittsburgh, Allegheny County, Pennsylvania, USA",1917-02-18T00:00:00Z,"Pittsburgh, Allegheny County, Pennsylvania, USA",Allegheny Cemetery,,Mary Alice Kerr Arbuckle
+1003,,Louis Henri Sullivan,1856-09-03T00:00:00Z,"Boston, Suffolk County, Massachusetts, USA",1924-04-14T00:00:00Z,"Chicago, Cook County, Illinois, USA",Graceland Cemetery,"Lakeside Section, Lot 105, Space  3",
+10030,,Edward Hatch,1832-12-22T00:00:00Z,"Bangor, Penobscot County, Maine, USA",1889-04-11T00:00:00Z,"Fort Robinson, Dawes County, Nebraska, USA",Fort Leavenworth National Cemetery,"Section A-Off, Grave 2204",Mary Elizabeth Hatch
+10030051,,Israel Garrard,1822-10-22T00:00:00Z,"Lexington, Richland County, Ohio, USA",1901-09-21T00:00:00Z,"Frontenac, Goodhue County, Minnesota, USA",Old Frontenac Cemetery,,Kenner Garrard
+10030088,,George Harrison Marks,1926-08-06T00:00:00Z,"Tottenham, London Borough of Haringey, Greater London, England",1997-06-27T00:00:00Z,"Camden Town, London Borough of Camden, Greater London, England",Golders Green Crematorium,,
+10030185,,Pvt Arthur Herbert Procter,1890-08-11T00:00:00Z,"Bootle, Metropolitan Borough of Sefton, Merseyside, England",1973-01-26T00:00:00Z,"Sheffield, Metropolitan Borough of Sheffield, South Yorkshire, England",Sheffield Cathedral,Cremated; ashes buried in All Saints Chapel,
+10030208,,Tom Keene,1896-12-30T00:00:00Z,"Rochester, Monroe County, New York, USA",1963-08-04T00:00:00Z,"Woodland Hills, Los Angeles County, California, USA",Forest Lawn Memorial Park,"Gardens of Memory (NW), Map #01, Single Garden Crypt 574",
+10030249,,Jack Luden,1902-02-08T00:00:00Z,"Reading, Berks County, Pennsylvania, USA",1951-02-15T00:00:00Z,"San Quentin, Marin County, California, USA",Napa Valley Memorial Park and Mortuary,Napa State Hospital Plot,Infant Luden
+10030266,,Gen Liam Lynch,1893-11-20T00:00:00Z,"County Limerick, Ireland",1923-04-10T00:00:00Z,"Clonmel, County Tipperary, Ireland",Kilcrumper Old Cemetery,,
+10030306,,Rembrandt Peale,1778-02-22T00:00:00Z,,1860-10-03T00:00:00Z,"Philadelphia, Philadelphia County, Pennsylvania, USA",Woodlands Cemetery,Section F-65,Raphael Peale
+10030475,,Samuel Post “Sam” Davis,1850-04-04T00:00:00Z,"Connecticut, USA",1918-03-17T00:00:00Z,"Carson City, Carson City, Nevada, USA",Lone Mountain Cemetery,Mighels/Davis family plot,"Robert Hobart ""Bob"" Davis"
+10030556,,Lucy Ellen “Nellie”,1844-09-18T00:00:00Z,"Greenwood, Oxford County, Maine, USA",1945-06-23T00:00:00Z,"Carson City, Carson City, Nevada, USA",Lone Mountain Cemetery,1A-09-22,Aramantha M Verrill
+10030572,,Ray “Crash” Corrigan,1902-02-14T00:00:00Z,"Milwaukee, Milwaukee County, Wisconsin, USA",1976-08-10T00:00:00Z,"Brookings, Curry County, Oregon, USA",Inglewood Park Cemetery,"El Sereno Plot, Lot 748, Grave E (Unmarked)",
+10030741,,Quorthon,1966-02-17T00:00:00Z,"Stockholm, Stockholms kommun, Stockholms län, Sweden",2004-06-03T00:00:00Z,"Stockholm, Stockholms kommun, Stockholms län, Sweden",Sandsborgskyrkogården,"Forsberg family grave, location 1, grave number 525",
+100307968,,Rafael Martínez Illescas,1854-02-26T00:00:00Z,"Cartagena, Provincia de Murcia, Murcia, Spain",1898-08-09T00:00:00Z,"Coamo, Coamo Municipality, Puerto Rico, USA",Cementerio de Nuestra Señora de los Remedios,,
+10031,,Henry Leavenworth,1783-12-10T00:00:00Z,"New Haven, New Haven County, Connecticut, USA",1834-07-21T00:00:00Z,"Oklahoma, USA",Fort Leavenworth National Cemetery,"Section 2, Grave 3215",Ruth Leavenworth Elkins
+100310320,,Maxim,1914-10-29T00:00:00Z,"Lovech, Obshtina Lovech, Lovech, Bulgaria",2012-11-06T00:00:00Z,"Sofia, Stolichna Obshtina, Sofia-grad, Bulgaria",Troyan Monastery,,
+10031034,,Hardy Falconer Parsons,1897-06-13T00:00:00Z,"Rishton, Hyndburn Borough, Lancashire, England",1917-08-21T00:00:00Z,"Epehy, Departement de la Somme, Picardie, France",Villers-Faucon Communal Cemetery,A.16.,
+100312153,,Felix J. Alexander,1888-03-04T00:00:00Z,,1973-06-23T00:00:00Z,,IOOF Cemetery,,
+100312453,,Ella Uphay,1865-07-26T00:00:00Z,"Columbus, Bartholomew County, Indiana, USA",1923-08-02T00:00:00Z,"Colorado, USA",Mount Hope Cemetery,"Sec 4, Lot 26, Gr 4",Logan P. Herod
+100314550,,Darrell K. Royal,1924-07-06T00:00:00Z,"Hollis, Harmon County, Oklahoma, USA",2012-11-07T00:00:00Z,"Austin, Travis County, Texas, USA",Texas State Cemetery,"Statesman's Meadow, Section 2 (G,) Row B,  Number 19",Mahota M Royal White
+100315049,,Alfred L Cralle,1866-09-04T00:00:00Z,"Kenbridge, Lunenburg County, Virginia, USA",1919-05-06T00:00:00Z,"Pittsburgh, Allegheny County, Pennsylvania, USA",Mount Carmel Cemetery,,Richard Abraham Cralle
+10031530,,Charles Frederick Lindauer II,1919-01-26T00:00:00Z,"Jersey City, Hudson County, New Jersey, USA",2005-09-12T00:00:00Z,"Lady Lake, Lake County, Florida, USA",Lady Lake Cemetery,,John Howard Lindauer I
+10031738,,Henry James Nicholas,1891-06-11T00:00:00Z,"Lincoln, Selwyn District, Canterbury, New Zealand",1918-10-23T00:00:00Z,"Le Quesnoy, Departement du Nord, Nord-Pas-de-Calais, France",Vertigneul Churchyard,,Frederick Charles Nicholas
+10031902,,Toranosuke Shimada,1814-02-26T00:00:00Z,,1852-02-26T00:00:00Z,,Shojo-ji Temple Cemetery,,
+10031991,,Tadataka Ino,1745-02-11T00:00:00Z,"Sambu-gun, Chiba, Japan",1818-05-17T00:00:00Z,Japan,Genku-ji Temple Cemetery,,
+100324007,,Ekaterina Fedorovna Belashova,1906-12-02T00:00:00Z,,1971-05-09T00:00:00Z,,Novodevichye Cemetery,Plot number 7,
+100325163,,Maxim Dormidontovich Mikhailov,1893-08-25T00:00:00Z,"Chuvashia Republic, Russia",1971-03-30T00:00:00Z,"Moscow, Moscow Federal City, Russia",Novodevichye Cemetery,7,
+100326504,,Mikhail Vasilievich Isakovsky,1900-01-19T00:00:00Z,"Smolensk Oblast, Russia",1973-07-20T00:00:00Z,"Moscow, Moscow Federal City, Russia",Novodevichye Cemetery,7,
+100329726,,Adriana Suydam,1871-10-14T00:00:00Z,"New York, New York County, New York, USA",1962-05-13T00:00:00Z,,Green-Wood Cemetery,30585,Harrie Ambler Quackenbush
+100329982,,Rufus Freeman Andrews,1825-05-27T00:00:00Z,"Medina County, Ohio, USA",1893-08-27T00:00:00Z,"Swampscott, Essex County, Massachusetts, USA",Green-Wood Cemetery,11712,
+10033,,Sir James Douglas,,,1330-08-25T00:00:00Z,"Teba, Provincia de Málaga, Andalucia, Spain",Saint Bride's Cemetery,,
+100330636,,Carmen Basilio,1927-04-02T00:00:00Z,"Canastota, Madison County, New York, USA",2012-11-07T00:00:00Z,"Rochester, Monroe County, New York, USA",Saint Agatha Cemetery,,Jessie Basilio DeStaffan
+10033431,,Richard S. T. Walter Goode,1844-10-28T00:00:00Z,"London, City of London, Greater London, England",1912-09-17T00:00:00Z,"Chicago, Cook County, Illinois, USA",Melbourne Cemetery,,William J Goode
+100335186,,George Lincoln Adams,1853-12-04T00:00:00Z,"Boston, Suffolk County, Massachusetts, USA",1929-09-11T00:00:00Z,"Manhattan, New York County, New York, USA",Stroudsburg Cemetery,,Edward Dean Adams
+100338922,,Theodore H “Ted” Isley,1912-10-31T00:00:00Z,,2004-09-14T00:00:00Z,,Saint Boniface Cemetery,,"Frederick Michael ""Fred"" Isley"
+100342465,,Barnum Brown,1873-02-12T00:00:00Z,"Carbondale, Osage County, Kansas, USA",1963-02-05T00:00:00Z,"New York, New York County, New York, USA",Riverview Cemetery,,Frank Brown
+100342721,,LCDR Mercer McCall “Mack” Tharpe,1903-07-12T00:00:00Z,"Marion, Fayette County, Georgia, USA",1945-02-21T00:00:00Z,"Iwo Jima, Ogasawara-shichō, Tokyo Metropolis, Japan",Westview Cemetery,"Lane 7 West; Section 5, Block I, Lot 11 (5 I 11 7th West)",Elizabeth Tharpe
+100345103,,Mylo Snavely Downey,1904-08-08T00:00:00Z,"Williamsport, Washington County, Maryland, USA",1976-07-08T00:00:00Z,"Baltimore, Baltimore City, Maryland, USA",Rose Hill Cemetery,,Lawrence Elden Downey
+10035,,Kenneth Webster “Jack” Mollenkopf,1903-11-25T00:00:00Z,"Convoy, Van Wert County, Ohio, USA",1975-12-03T00:00:00Z,"Rochester, Olmsted County, Minnesota, USA",Tippecanoe Memory Gardens,"Main Chapel West, Section 6, Level 3, Crypt 281",Paul Edison Mollenkopf
+100356618,,Ambiorix,1946-02-26T00:00:00Z,France,1975-01-26T00:00:00Z,"Kentucky, USA",Claiborne Farm Equine Cemetery,,
+100356682,,Double Jay,1944-02-26T00:00:00Z,"Kentucky, USA",1972-02-26T00:00:00Z,"Kentucky, USA",Claiborne Farm Equine Cemetery,,
+100356724,,Gamely,1964-02-10T00:00:00Z,"Paris, Bourbon County, Kentucky, USA",1975-05-17T00:00:00Z,"Paris, Bourbon County, Kentucky, USA",Claiborne Farm Equine Cemetery,,Bold Bidder
+100356794,,Hoist the Flag,1968-03-31T00:00:00Z,"Kentucky, USA",1980-02-26T00:00:00Z,"Kentucky, USA",Claiborne Farm Equine Cemetery,,File
+100356807,,Johnstown,1936-02-26T00:00:00Z,"Kentucky, USA",1950-05-14T00:00:00Z,"Kentucky, USA",Claiborne Farm Equine Cemetery,,
+100356866,,War Cloud,1915-02-26T00:00:00Z,,1923-02-26T00:00:00Z,,Claiborne Farm Equine Cemetery,,
+100357866,,Court Martial,1942-03-20T00:00:00Z,England,1966-07-16T00:00:00Z,"Kentucky, USA",Claiborne Farm Equine Cemetery,,
+100357899,,Herbager,1956-02-26T00:00:00Z,France,1976-03-25T00:00:00Z,"Paris, Bourbon County, Kentucky, USA",Claiborne Farm Equine Cemetery,,
+100357928,,William Drury “Doc” Allen,1886-02-13T00:00:00Z,"Grandview, Greene County, Tennessee, USA",1979-12-27T00:00:00Z,"Minot, Ward County, North Dakota, USA",Sunset Memorial Gardens,,Henry M. Allen
+100358019,,Reviewer,1966-04-30T00:00:00Z,"Kentucky, USA",1977-06-06T00:00:00Z,"Kentucky, USA",Claiborne Farm Equine Cemetery,,Bold Bidder
+10036,,Philip St. George Cocke,1809-04-17T00:00:00Z,"Fluvanna County, Virginia, USA",1861-12-26T00:00:00Z,"Powhatan County, Virginia, USA",Hollywood Cemetery,"Section 19, Plot 61",Maj James Hartwell Cocke
+100361302,,Malcolm John MacDonald,1901-08-17T00:00:00Z,"Lossiemouth, Moray, Scotland",1981-01-11T00:00:00Z,"Maidstone, Maidstone Borough, Kent, England",Spynie Churchyard,,Alister Gladstone MacDonald
+10037,,Matthew Duncan Ector,1822-02-28T00:00:00Z,"Putnam County, Georgia, USA",1879-10-29T00:00:00Z,"Tyler, Smith County, Texas, USA",Greenwood Cemetery,,
+100371593,,Scottie,1884-09-07T00:00:00Z,"Talladega, Talladega County, Alabama, USA",1964-11-24T00:00:00Z,"Dothan, Houston County, Alabama, USA",Memory Hill Cemetery,Garden of Devotion,
+100371943,,Robert Benjamin “Clive” Dunn,1920-01-09T00:00:00Z,"Covent Garden, London Borough of Camden, Greater London, England",2012-11-06T00:00:00Z,"Faro, Portugal",,,
+10037350,,Albert Edward Shepherd,1897-01-11T00:00:00Z,"Royston, Metropolitan Borough of Barnsley, South Yorkshire, England",1966-10-23T00:00:00Z,"Royston, Metropolitan Borough of Barnsley, South Yorkshire, England",Royston Cemetery,,
+100373511,,Valentina Stepanovna Grizodubova,1909-05-10T00:00:00Z,"Kharkiv, Kharkiv Raion, Kharkivska, Ukraine",1993-04-28T00:00:00Z,"Moscow, Moscow Federal City, Russia",Novodevichye Cemetery,,
+10037407,,Tex Fletcher,1910-01-17T00:00:00Z,"Harrison, Westchester County, New York, USA",1987-03-14T00:00:00Z,"Newburgh, Orange County, New York, USA",Saint Charles Borromeo Cemetery,,
+100374414,,Dannie Richmond,1931-12-15T00:00:00Z,"New York, New York County, New York, USA",1988-03-16T00:00:00Z,"New York, New York County, New York, USA",Piedmont Memorial Park,,
+10037520,,José Ignacio Rucci,1924-05-15T00:00:00Z,"Santa Fe, Argentina",1973-09-25T00:00:00Z,"Buenos Aires, Ciudad Autónoma de Buenos Aires, Capital Federal, Argentina",Cementerio de la Chacarita,,
+10037578,,Johann Nepomuk Hummel,1778-11-14T00:00:00Z,"Bratislava, Bratislava I, Bratislavský, Slovakia",1837-10-17T00:00:00Z,"Weimar, Stadtkreis Weimar, Thüringen, Germany",Alter Friedhof Weimar,,
+10037580,,Beth Lockerbie,1915-06-15T00:00:00Z,"Regina, Regina Census Division, Saskatchewan, Canada",1968-09-21T00:00:00Z,"Toronto, Toronto Municipality, Ontario, Canada",Mount Pleasant Cemetery,"Section 53, Lot 222",
+10037612,,Lena Kaulumau,1903-10-16T00:00:00Z,"Honolulu, Honolulu County, Hawaii, USA",1974-01-22T00:00:00Z,"Honolulu, Honolulu County, Hawaii, USA",Makiki Cemetery,,"Augusta Kaonohi ""Gussie"" Waialeale Poai"
+10037683,,Sigfrid Karg-Elert,1877-11-21T00:00:00Z,"Oberndorf am Neckar, Landkreis Rottweil, Baden-Württemberg, Germany",1933-04-09T00:00:00Z,"Leipzig, Stadtkreis Leipzig, Saxony, Germany",Südfriedhof,,
+100377221,,Margaret Marion “Maggie”,1870-02-26T00:00:00Z,"Whitfield County, Georgia, USA",1947-01-06T00:00:00Z,"Atlanta, Fulton County, Georgia, USA",West Hill Cemetery,,Eva Wootten Bradley
+100379158,,Wesley Carl Meierhenry,1915-11-12T00:00:00Z,"Arlington, Washington County, Nebraska, USA",1989-12-30T00:00:00Z,"Lincoln, Lancaster County, Nebraska, USA",Lincoln Memorial Park,"Section D, Lot 76, Sp. 5",Harold P. Meierhenry
+10038,,Samuel Wragg Ferguson,1834-11-03T00:00:00Z,"Charleston, Charleston County, South Carolina, USA",1917-02-03T00:00:00Z,"Jackson, Hinds County, Mississippi, USA",Greenwood Cemetery,"Confederate Burial Ground, old cemetery, Section 1",Maj James DuGue Ferguson
+100380737,,Charles William Mayser,1876-06-03T00:00:00Z,"Buffalo, Erie County, New York, USA",1967-07-14T00:00:00Z,"Akron, Lancaster County, Pennsylvania, USA",Greenwood Cemetery,Buchanan Section,
+10039,,Jeremy Francis Gilmer,1818-02-23T00:00:00Z,"Greensboro, Guilford County, North Carolina, USA",1883-12-01T00:00:00Z,"Savannah, Chatham County, Georgia, USA",Laurel Grove Cemetery North,Lot 662,John Adams Gilmer
+100395883,,Sarah Jane,1879-07-21T00:00:00Z,"Albany, Albany County, New York, USA",1960-06-13T00:00:00Z,"West Islip, Suffolk County, New York, USA",Albany Rural Cemetery,Sec. 85,
+100399373,,Rev David Greene Haskins,1818-05-01T00:00:00Z,"Boston, Suffolk County, Massachusetts, USA",1896-05-11T00:00:00Z,"Cambridge, Middlesex County, Massachusetts, USA",Western Cemetery,E:2,
+1004,,Thomas Sully,1783-06-08T00:00:00Z,"Horncastle, East Lindsey District, Lincolnshire, England",1872-11-05T00:00:00Z,"Philadelphia, Philadelphia County, Pennsylvania, USA",Laurel Hill Cemetery,"Section A, Lot 41",
+10040,,Richard Hawes,1797-02-06T00:00:00Z,"Caroline County, Virginia, USA",1877-05-25T00:00:00Z,"Paris, Bourbon County, Kentucky, USA",Paris Cemetery,,Ann Hawes Coleman
+100402079,,Robert Henry Chandless,1880-09-30T00:00:00Z,"Pennsylvania, USA",1951-07-09T00:00:00Z,"San Francisco County, California, USA",Los Gatos Memorial Park,,
+100404539,,Peadar Sean “P.S.” Doyle,1876-08-11T00:00:00Z,"County Dublin, Ireland",1956-08-04T00:00:00Z,"Inchicore, County Dublin, Ireland",Esker Cemetery,,John Doyle
+10040594,,Cyril Connolly,1903-09-10T00:00:00Z,"Coventry, Metropolitan Borough of Coventry, West Midlands, England",1974-11-26T00:00:00Z,"London, City of London, Greater London, England",St. Michael and All Angels Churchyard,,
+100406881,226392529,Igor Tamm,1895-07-08T00:00:00Z,"Vladivostok, Primorsky Krai, Russia",1971-04-12T00:00:00Z,"Moscow, Moscow Federal City, Russia",Novodevichye Cemetery,7,
+100407200,,John Davis Tuggle,1961-01-13T00:00:00Z,"Honolulu, Honolulu County, Hawaii, USA",1986-08-30T00:00:00Z,"Tijuana, Tijuana Municipality, Baja California, Mexico",Cedar Lawn Memorial Park,Section 10A,
+10041,,Robert Frederick Hoke,1837-05-27T00:00:00Z,"Lincolnton, Lincoln County, North Carolina, USA",1912-07-03T00:00:00Z,"Lincolnton, Lincoln County, North Carolina, USA",Oakwood Cemetery,,Mary Brent Hoke Smith
+10041013,,John Tillman Lamkin,1811-06-17T00:00:00Z,"Augusta, Richmond County, Georgia, USA",1870-05-19T00:00:00Z,"Holmesville, Pike County, Mississippi, USA",Woodlawn Cemetery,,Sampson Lewis Lamkin
+100410179,,Yuri Albertovich Borisov,1956-04-02T00:00:00Z,"Kyiv, Pecherskyi raion, City of Kyiv, Ukraine",2007-11-16T00:00:00Z,"Moscow, Moscow Federal City, Russia",Novodevichye Cemetery,10,
+100410791,,Mark Grigorievich Fradkin,1914-05-04T00:00:00Z,"Vitsyebsk, Vitebsk, Belarus",1990-04-04T00:00:00Z,"Moscow, Moscow Federal City, Russia",Novodevichye Cemetery,10,
+100411297,,Sergei Vladimirovich Obraztsov,1901-07-05T00:00:00Z,"Moscow, Moscow Federal City, Russia",1992-05-08T00:00:00Z,"Moscow, Moscow Federal City, Russia",Novodevichye Cemetery,10,
+10041187,,Harry Woods Sr.,1889-05-05T00:00:00Z,"Cleveland, Cuyahoga County, Ohio, USA",1968-12-28T00:00:00Z,"Los Angeles, Los Angeles County, California, USA",Valhalla Memorial Park,"Lot 6890, Grave 3",
+10041875,,James Wilson,1825-04-09T00:00:00Z,"Crawfordsville, Montgomery County, Indiana, USA",1867-08-08T00:00:00Z,"Caracas, Municipio Bolivariano Libertador, Capital District, Venezuela",Oak Hill Cemetery,"Buried near his son, John Lockwood Wilson.",
+10042,,Luke Pryor Blackburn,1816-06-16T00:00:00Z,"Woodford County, Kentucky, USA",1887-09-14T00:00:00Z,"Frankfort, Franklin County, Kentucky, USA",Frankfort Cemetery,"Section N, Lot 17, Grave 4",Mary Blackburn Morris
+100422110,,Abram Isahakovich Alikhanov,1904-02-20T00:00:00Z,"Ganja, Ganca City District, Azerbaijan",1970-12-08T00:00:00Z,"Moscow Federal City, Russia",Novodevichye Cemetery,,
+100423207,,Georgia,1905-07-08T00:00:00Z,,1980-10-22T00:00:00Z,,St Mary and St Peter Churchyard,,
+100423400,,Francis Trajan Sacheverell Sitwell,1935-09-17T00:00:00Z,,2004-01-14T00:00:00Z,,St Mary and St Peter Churchyard,,
+10042543,,Michel Colombier,1939-05-23T00:00:00Z,"Lyon, Departement du Rhône, Rhône-Alpes, France",2004-11-14T00:00:00Z,"Santa Monica, Los Angeles County, California, USA",Westwood Memorial Park,,
+100425484,,Lee MacPhail,1917-10-25T00:00:00Z,"Nashville, Davidson County, Tennessee, USA",2012-11-08T00:00:00Z,"Delray Beach, Palm Beach County, Florida, USA",Saint James the Less Episcopal Church Cemetery,"Entombed in McFarlan columbarium, Niche 177, Southwest side of the churchyard.",Marian MacPhail McDermott
+100425769,,Bill Tarmey,1941-04-04T00:00:00Z,"Ardwick, Metropolitan Borough of Manchester, Greater Manchester, England",2012-11-09T00:00:00Z,,Droylsden Cemetery,"Section M, Grave 180",
+10042633,,Maude Lloyd,1908-08-16T00:00:00Z,"Cape Town, City of Cape Town Metropolitan Municipality, Western Cape, South Africa",2004-11-26T00:00:00Z,"Kensington, Royal Borough of Kensington and Chelsea, Greater London, England",Golders Green Crematorium,,
+100426394,,Yevgeny Pavlovich Leonov,1926-09-02T00:00:00Z,"Moscow, Moscow Federal City, Russia",1994-01-29T00:00:00Z,"Moscow, Moscow Federal City, Russia",Novodevichye Cemetery,10,
+10042722,,Sgt John McAulay,1888-12-27T00:00:00Z,"Kinghorn, Fife, Scotland",1956-01-14T00:00:00Z,"Glasgow, Glasgow City, Scotland",Eastwood New Cemetery,Section L-VII,
+100427322,,Ivan Semenovich Kozlovsky,1900-03-24T00:00:00Z,"Kyivska, Ukraine",1993-12-21T00:00:00Z,"Moscow, Moscow Federal City, Russia",Novodevichye Cemetery,10,
+10042834,,John Thomas,1886-05-10T00:00:00Z,"Openshaw, Metropolitan Borough of Manchester, Greater Manchester, England",1954-02-28T00:00:00Z,"Stockport, Metropolitan Borough of Stockport, Greater Manchester, England",Stockport Cemetery and Crematorium,,
+10042963,,Edward Felix Baxter,1885-09-18T00:00:00Z,"Oldswinford, Metropolitan Borough of Dudley, West Midlands, England",1916-04-18T00:00:00Z,"Blairville, Departement du Pas-de-Calais, Nord-Pas-de-Calais, France",Fillievres British Cemetery,A.10.,
+10043,,Eli Metcalfe Bruce,1828-02-22T00:00:00Z,"Flemingsburg, Fleming County, Kentucky, USA",1866-12-16T00:00:00Z,"New York, New York County, New York, USA",Highland Cemetery,"Section 2, Lot 142, Grave 3",Sallie Pickett Metcalfe Bruce Thomas
+100430571,,Charles Motier Nes Jr.,1906-10-19T00:00:00Z,,1989-04-30T00:00:00Z,"York County, Pennsylvania, USA",Prospect Hill Cemetery,Section 14,
+100430820,,Andrei Alexandrovich Goncharov,1918-01-02T00:00:00Z,"Moscow Oblast, Russia",2001-09-07T00:00:00Z,"Moscow, Moscow Federal City, Russia",Novodevichye Cemetery,10,
+10043157,,Saint Ubaldo of Gubbio,1084-02-26T00:00:00Z,"Gubbio, Provincia di Perugia, Umbria, Italy",1160-05-16T00:00:00Z,"Gubbio, Provincia di Perugia, Umbria, Italy",Basilica of Sant'Ubaldo,,
+10043229,,LT Arthur Hugh Henry Batten-Pooll,1891-10-25T00:00:00Z,"Knightsbridge, Royal Borough of Kensington and Chelsea, Greater London, England",1971-01-21T00:00:00Z,"Ivybridge, South Hams District, Devon, England",St. Lawrence Churchyard,,Robert Duncan Henry Batten Pooll
+100432801,,John Paul Gorman,1897-03-04T00:00:00Z,"Pompey, Onondaga County, New York, USA",1983-10-30T00:00:00Z,"Neshanic, Somerset County, New Jersey, USA",Princeton Cemetery,,Minnie Gorman
+100433353,,Edward Prime,1801-12-10T00:00:00Z,"New York, New York County, New York, USA",1883-08-21T00:00:00Z,,Green-Wood Cemetery,915,
+100434192,,J. W. Milam,1919-02-18T00:00:00Z,"Tallahatchie County, Mississippi, USA",1980-12-31T00:00:00Z,"Jackson, Hinds County, Mississippi, USA",Greenlawn Memorial Gardens,C Garden of the Last Supper,Henry Edward Milam
+100434432,,Oonagh Elizabeth Jeffrey,1935-04-20T00:00:00Z,Hong Kong,1991-06-19T00:00:00Z,,All Saints Churchyard,,
+10043830,,PVT George William Chafer,1894-04-16T00:00:00Z,"Bradford, Metropolitan Borough of Bradford, West Yorkshire, England",1966-03-01T00:00:00Z,"Rotherham, Metropolitan Borough of Rotherham, South Yorkshire, England",Rotherham Crematorium,"(Ashes interred on the grounds of the Community Youth Civic Centre, Rotherham)",
+100438839,,Donald Irvin “Sarge” Boyd,1901-06-21T00:00:00Z,"Wendell, Grant County, Minnesota, USA",1987-03-01T00:00:00Z,"Eau Claire, Eau Claire County, Wisconsin, USA",Forest Hill Cemetery,BL J,Roy Marion Boyd
+10043906,,Sidney James Day,1891-07-03T00:00:00Z,"Norwich, City of Norwich, Norfolk, England",1959-07-17T00:00:00Z,"Portsmouth, Portsmouth Unitary Authority, Hampshire, England",Milton Cemetery,,
+10044,,Gen Theophilus Hunter Holmes,1804-11-13T00:00:00Z,"Clinton, Sampson County, North Carolina, USA",1880-06-21T00:00:00Z,"Fayetteville, Cumberland County, North Carolina, USA",MacPherson Presbyterian Church Cemetery,,Hardy Lucian Holmes
+100441225,,Mildred L,1921-09-14T00:00:00Z,USA,2011-10-21T00:00:00Z,"Tuskegee, Macon County, Alabama, USA",Greenwood Cemetery,,
+10044180,,Margalo Gillmore,1897-05-31T00:00:00Z,,1986-06-30T00:00:00Z,"New York, New York County, New York, USA",Kensico Cemetery,,
+100443611,,James Sutherland,1820-03-20T00:00:00Z,"Smithfield, Jefferson County, Ohio, USA",1905-10-30T00:00:00Z,"Janesville, Rock County, Wisconsin, USA",Oak Hill Cemetery,117-04-1A,Thomas Smith Sutherland
+10044414,,Edith Maud “Sui Sin Far” Eaton,1865-03-15T00:00:00Z,"Macclesfield, Cheshire East Unitary Authority, Cheshire, England",1914-04-07T00:00:00Z,"Montreal, Montreal Region, Quebec, Canada",Cimetière Mont-Royal,"Section L3, Number L718",Edward Charles Eaton
+10044767,,William Boynton Butler,1894-11-20T00:00:00Z,"Armley, Metropolitan Borough of Leeds, West Yorkshire, England",1972-03-25T00:00:00Z,"Leeds, Metropolitan Borough of Leeds, West Yorkshire, England",Hunslet Cemetery,"New Section 3, Plot 48.",
+100447815,,Joseph Daniel Early Sr.,1933-01-31T00:00:00Z,"Worcester, Worcester County, Massachusetts, USA",2012-11-09T00:00:00Z,"Worcester, Worcester County, Massachusetts, USA",Saint John's Cemetery,St. Matthew/-/207,
+10044853,,William Harvey Gibson,1821-05-16T00:00:00Z,"Steubenville, Jefferson County, Ohio, USA",1894-11-22T00:00:00Z,"Tiffin, Seneca County, Ohio, USA",Greenlawn Cemetery,"Row 127, Gibson Family Plot",Sally Gibson Patterson
+10044980,,Carol Hughes,1910-01-17T00:00:00Z,"Chicago, Cook County, Illinois, USA",1995-08-08T00:00:00Z,"Burbank, Los Angeles County, California, USA",San Fernando Mission Cemetery,"Section C, Lot 25, Grave 3",
+10045,,Henry Rootes Jackson,1820-06-24T00:00:00Z,"Athens, Clarke County, Georgia, USA",1898-05-23T00:00:00Z,"Savannah, Chatham County, Georgia, USA",Bonaventure Cemetery,Section: H Block: 0 Lot: 101,Sarah Maria Rootes Jackson Prince
+10045202,,Charles Edward Spackman,1891-01-11T00:00:00Z,"Fulham, London Borough of Hammersmith and Fulham, Greater London, England",1969-05-06T00:00:00Z,"Southampton, Southampton Unitary Authority, Hampshire, England",Southampton Crematorium and Garden of Remembrance,Cremated; ashes scattered in the Gardens of Remembrance.,
+100453886,,Mary Anita “Neta”,1896-02-14T00:00:00Z,"Mount Carroll, Carroll County, Illinois, USA",1991-03-23T00:00:00Z,"Los Gatos, Santa Clara County, California, USA",Valhalla Memorial Park,,William Benjamin Snook
+10045478,,Carmen Lombardo,1903-01-16T00:00:00Z,"London, Middlesex County, Ontario, Canada",1971-04-17T00:00:00Z,"Miami, Miami-Dade County, Florida, USA",Pinelawn Memorial Park and Arboretum,,
+100455880,,Erwin Campbell Surrency,1924-05-14T00:00:00Z,,2012-11-08T00:00:00Z,,Jesup City Cemetery,,Laura Virginia Surrency Hodges
+1004559,,David Moniac,1802-12-25T00:00:00Z,"Montgomery, Montgomery County, Alabama, USA",1836-11-21T00:00:00Z,"Bushnell, Sumter County, Florida, USA",Florida National Cemetery,"MD, 0, 1",Alexander Dixon Moniac
+100457470,,George Russell Hadlock,1880-07-21T00:00:00Z,"Cranberry Isles, Hancock County, Maine, USA",1958-09-26T00:00:00Z,"Bar Harbor, Hancock County, Maine, USA",Stanley-Hadlock Cemetery,,Agnes Hadlock Spurling
+100457671,,Wendell Stanwood Hadlock,1911-05-12T00:00:00Z,"Cranberry Isles, Hancock County, Maine, USA",1978-12-19T00:00:00Z,"Rockland, Knox County, Maine, USA",Woodbine Cemetery,,Elmer Campbell Hadlock
+100457826,,Edwin Hadlock,1814-01-17T00:00:00Z,,1875-09-16T00:00:00Z,,Stanley-Hadlock Cemetery,,Samuel Hadlock Jr
+100457868,,Mary Ann,1816-07-22T00:00:00Z,,1888-12-23T00:00:00Z,,Stanley-Hadlock Cemetery,,
+100457934,,Col William Edward Hadlock,1834-02-26T00:00:00Z,,1911-02-26T00:00:00Z,,Stanley-Hadlock Cemetery,,Capt Gilbert T. Hadlock
+100458027,,Capt Gilbert T. Hadlock,1837-02-26T00:00:00Z,,1917-02-26T00:00:00Z,,Stanley-Hadlock Cemetery,,Col William Edward Hadlock
+100458520,,Capt Samuel Hadlock,1771-02-26T00:00:00Z,,1854-09-24T00:00:00Z,,Stanley-Hadlock Cemetery,,
+100459482,,Major Harris III,1947-02-09T00:00:00Z,"Richmond, Richmond City, Virginia, USA",2012-11-09T00:00:00Z,"Richmond, Richmond City, Virginia, USA",Roselawn Memory Gardens,Section 73,
+100459698,,Audrey “Belle”,1883-03-26T00:00:00Z,"New York, USA",1975-07-13T00:00:00Z,"Hennepin County, Minnesota, USA",Lakewood Cemetery,SECTION 30 LOT 156 GRAVE 4,Florence Irene Forfar Nelson
+10046,,Samuel Jones,1819-12-17T00:00:00Z,"Powhatan County, Virginia, USA",1887-07-31T00:00:00Z,"Bedford Springs, Bedford County, Pennsylvania, USA",Hollywood Cemetery,"Section C, Plot 86",
+10046258,,Steve Weston,1940-02-26T00:00:00Z,,1985-05-12T00:00:00Z,"Toronto Municipality, Ontario, Canada",,,
+10046350,,Sidney William “Sid” McNabney,1929-01-15T00:00:00Z,"Toronto, Toronto Municipality, Ontario, Canada",1957-02-07T00:00:00Z,"Toronto, Toronto Municipality, Ontario, Canada",Resthaven Memorial Gardens,,
+10046372,,Bill Thoms,1910-03-05T00:00:00Z,"Newmarket, York Regional Municipality, Ontario, Canada",1964-12-26T00:00:00Z,"Toronto, Toronto Municipality, Ontario, Canada",Mount Hope Catholic Cemetery,,
+10046406,,William James Taylor,1919-05-03T00:00:00Z,"Winnipeg, Greater Winnipeg, Manitoba, Canada",1990-06-12T00:00:00Z,"Whitby, Durham Regional Municipality, Ontario, Canada",Resurrection Catholic Cemetery,,
+100464434,,Blanca De Los Ríos Nostench,1859-08-15T00:00:00Z,"Sevilla, Provincia de Sevilla, Andalucia, Spain",1956-04-13T00:00:00Z,"Madrid, Provincia de Madrid, Madrid, Spain",Sacramental de San Justo,Panteón de Hombres Ilustres,
+100464559,,Milton Rubincam,1909-03-26T00:00:00Z,"Philadelphia, Philadelphia County, Pennsylvania, USA",1997-09-09T00:00:00Z,"Hyattsville, Prince George's County, Maryland, USA",Arlington Cemetery,Sunnyside,
+100464881,,Vladimir Arkadievich Kandelaki,1908-03-29T00:00:00Z,"Tbilisi, Tbilisi, Georgia",1994-03-11T00:00:00Z,"Moscow, Moscow Federal City, Russia",Novodevichye Cemetery,Part number 10,
+100465606,,Fredrick William Draper,1868-07-22T00:00:00Z,"Dundee, Fond du Lac County, Wisconsin, USA",1962-09-02T00:00:00Z,"Greensboro, Guilford County, North Carolina, USA",Loyal City Cemetery,,
+100466197,,Harriot,1788-05-18T00:00:00Z,,1864-01-16T00:00:00Z,,St Mary and St Peter Churchyard,,
+100466546,,Col Henry Hely-Hutchinson,1790-03-23T00:00:00Z,,1874-06-02T00:00:00Z,,St Mary and St Peter Churchyard,,
+100469207,,Toy Franklin Reid Sr.,1924-01-13T00:00:00Z,"South Carolina, USA",2009-07-26T00:00:00Z,"Kingsport, Sullivan County, Tennessee, USA",Oak Hill Memorial Park,,Thelma Reid Pollard
+10047,,Walter Paye Lane,1817-02-18T00:00:00Z,"County Cork, Ireland",1892-01-28T00:00:00Z,"Marshall, Harrison County, Texas, USA",Marshall Cemetery,Plot 228,
+100473475,,John Jaquelin Ambler,1828-10-31T00:00:00Z,"Orange, Orange County, Virginia, USA",1901-05-21T00:00:00Z,"Amherst, Amherst County, Virginia, USA",Spring Hill Cemetery,Section U #91,
+100473732,,Yulii Borisovich Khariton,1904-02-27T00:00:00Z,"Saint Petersburg Federal City, Russia",1996-12-18T00:00:00Z,"Nizhny Novgorod Oblast, Russia",Novodevichye Cemetery,,
+100475358,,Alexey Nikolaevich Gribov,1902-01-31T00:00:00Z,"Moscow, Moscow Federal City, Russia",1977-11-26T00:00:00Z,"Moscow, Moscow Federal City, Russia",Novodevichye Cemetery,9,
+100475724,,Hastings,1893-02-05T00:00:00Z,,1917-06-17T00:00:00Z,,,,Plaudit
+100476689,,Capt William Newton “Bill” Lancaster,1898-02-14T00:00:00Z,"Kings Norton, Metropolitan Borough of Birmingham, West Midlands, England",1933-04-20T00:00:00Z,"Adrar, Algeria",,,Squadron Leader Jack Kelvin Lancaster
+100477410,,Laura Cordelia,1873-01-31T00:00:00Z,"Thomas County, Georgia, USA",1953-02-03T00:00:00Z,"Spence, Grady County, Georgia, USA",Pine Forest Baptist Church Cemetery,,John Henry Atkinson
+100478372,,Dawn-Marie Wesley,1986-05-05T00:00:00Z,"Mission, Squamish-Lillooet Regional District, British Columbia, Canada",2000-11-10T00:00:00Z,"Mission, Fraser Valley Regional District, British Columbia, Canada",,,
+100478766,,Margaret McKenzie,1884-07-20T00:00:00Z,"Fraser, Macomb County, Michigan, USA",1963-04-24T00:00:00Z,"Bradenton, Manatee County, Florida, USA",Skyway Memorial Gardens,,"William Henry ""Harry"" Barton"
+10048,,Alexander Robert Lawton,1818-11-05T00:00:00Z,"Beaufort County, South Carolina, USA",1896-07-02T00:00:00Z,"Clifton Springs, Ontario County, New York, USA",Bonaventure Cemetery,Section H,Adeline Elizabeth Lawton Robert
+100481640,,Elizabeth,1808-12-13T00:00:00Z,,1887-03-01T00:00:00Z,,Spring Hill Cemetery,Sec-U Lot-91 Spc-5,Dr Thomas Pendleton Barbour
+10048178,,Michael Richard “Mickey” Roach,1894-05-01T00:00:00Z,"Glace Bay, Cape Breton County, Nova Scotia, Canada",1977-04-01T00:00:00Z,"Whitby, Durham Regional Municipality, Ontario, Canada",Resurrection Catholic Cemetery,"Sec. 4, Gr. 10, Rg. 18",
+100484987,,Benjamin Drake Magruder,1838-09-27T00:00:00Z,"Mississippi, USA",1910-04-21T00:00:00Z,"Chicago, Cook County, Illinois, USA",Rosehill Cemetery and Mausoleum,,
+100489667,,Dr Harris Taylor Collier,1875-05-26T00:00:00Z,"McKenzie, Carroll County, Tennessee, USA",1935-05-05T00:00:00Z,"McKenzie, Carroll County, Tennessee, USA",Mount Olivet Cemetery,,Mary Ada Collier
+10049,,BG William Gaston Lewis,1835-09-03T00:00:00Z,"Rocky Mount, Nash County, North Carolina, USA",1901-01-07T00:00:00Z,"Goldsboro, Wayne County, North Carolina, USA",Willow Dale Cemetery,Old Section Lot # A 13,Dr Joel Battle Lewis
+100491796,,James Wentworth Boggs,1919-05-27T00:00:00Z,"Marion Junction, Dallas County, Alabama, USA",1993-07-22T00:00:00Z,"Detroit, Wayne County, Michigan, USA",Sutton Island Cemetery,,
+100494254,,Hoyt Clarke Hottel,1903-01-15T00:00:00Z,"Hendricks County, Indiana, USA",1998-08-18T00:00:00Z,"Winchester, Middlesex County, Massachusetts, USA",Sutton Island Cemetery,,
+100495157,,Clara Adelaide,1872-04-09T00:00:00Z,"Brooklyn, Kings County, New York, USA",1948-02-26T00:00:00Z,"Cambridge, Middlesex County, Massachusetts, USA",Sutton Island Cemetery,,
+100495187,,George Lyman Paine,1874-07-29T00:00:00Z,"Waltham, Middlesex County, Massachusetts, USA",1967-09-05T00:00:00Z,,Sutton Island Cemetery,,Edith Lyman Paine Storer
+100495212,,George Lyman Paine Jr.,1901-11-16T00:00:00Z,"Manhattan, New York County, New York, USA",1978-07-01T00:00:00Z,"Los Angeles, Los Angeles County, California, USA",Sutton Island Cemetery,,Alfred White Paine
+100498924,,Hugh Tyler Carlisle,1843-03-23T00:00:00Z,"New York, USA",1924-11-06T00:00:00Z,"Poseyville, Posey County, Indiana, USA",Poseyville Cemetery,,
+1005,,Charles Sumner,1811-01-06T00:00:00Z,"Cambridge, Middlesex County, Massachusetts, USA",1874-03-11T00:00:00Z,"Washington, District of Columbia, District of Columbia, USA",Mount Auburn Cemetery,Arethusa Path,Matilda Sumner
+10050,,William MacRae,1834-09-09T00:00:00Z,"Wilmington, New Hanover County, North Carolina, USA",1882-02-11T00:00:00Z,"Augusta, Richmond County, Georgia, USA",Oakdale Cemetery,,John Colin MacRae
+100501077,,Eugen Schüfftan,1893-07-21T00:00:00Z,Germany,1977-09-06T00:00:00Z,"New York, New York County, New York, USA",,,
+100502384,,Justine,1828-09-18T00:00:00Z,"Albany, Albany County, New York, USA",1912-04-06T00:00:00Z,,Albany Rural Cemetery,Sec. 45 Lot 4,Margaret Schuyler Van Rensselaer Johnson
+100503657,,Sergei Nikolaevich Kolosov,1921-12-27T00:00:00Z,"Moscow, Moscow Federal City, Russia",2012-02-11T00:00:00Z,"Moscow, Moscow Federal City, Russia",Novodevichye Cemetery,3,
+100504791,,Lyudmila Ivanovna Kasatkina,1925-05-15T00:00:00Z,"Smolensk Oblast, Russia",2012-02-22T00:00:00Z,"Moscow, Moscow Federal City, Russia",Novodevichye Cemetery,3,
+100507407,,Alexander Nikolayevich Nesmeyanov,1899-09-09T00:00:00Z,,1980-01-17T00:00:00Z,,Novodevichye Cemetery,,
+100507531,,Nikolai Semenovich Tikhonov,1896-12-04T00:00:00Z,"Saint Petersburg, Saint Petersburg Federal City, Russia",1979-02-08T00:00:00Z,"Moscow, Moscow Federal City, Russia",Novodevichye Cemetery,9,
+100507741,,Jim Durham,1947-02-12T00:00:00Z,"Chicago, Cook County, Illinois, USA",2012-11-04T00:00:00Z,"Tomball, Harris County, Texas, USA",Prairie Dell Cemetery,,Curtis Gray Durham
+100507815,,George O. Olinick,1888-12-09T00:00:00Z,,1957-12-27T00:00:00Z,,Mount Washington Cemetery,,
+100508214,,Sofia Vladimirovna Giatsintova,1895-08-04T00:00:00Z,"Moscow, Moscow Federal City, Russia",1982-04-12T00:00:00Z,"Moscow, Moscow Federal City, Russia",Novodevichye Cemetery,9,
+100509156,,Mikhail Ivanovich Zharov,1899-10-27T00:00:00Z,"Moscow, Moscow Federal City, Russia",1981-12-15T00:00:00Z,"Moscow, Moscow Federal City, Russia",Novodevichye Cemetery,9,
+10051,,Lafayette McLaws,1821-01-15T00:00:00Z,"Augusta, Richmond County, Georgia, USA",1897-07-24T00:00:00Z,"Savannah, Chatham County, Georgia, USA",Laurel Grove Cemetery North,Lot 451,Anna Laura McLaws
+100510465,,Maria Ivanovna Babanova,1900-11-11T00:00:00Z,"Moscow, Moscow Federal City, Russia",1983-03-20T00:00:00Z,"Moscow, Moscow Federal City, Russia",Novodevichye Cemetery,10,
+100518114,,Hiram Clay Tuttle,1838-05-27T00:00:00Z,"Richland County, Ohio, USA",1895-09-25T00:00:00Z,"Salinas, Monterey County, California, USA",Garden of Memories,,William Dille Tuttle
+100519013,,Marjorie,1887-12-03T00:00:00Z,,1930-07-26T00:00:00Z,,,,
+10052,,Robert Ransom,1828-02-12T00:00:00Z,"Warren County, North Carolina, USA",1892-01-14T00:00:00Z,"New Bern, Craven County, North Carolina, USA",Cedar Grove Cemetery,462,Seymourosa Priscilla Ransom
+100520067,,Vladimir Alexeyevich Gilyarovsky,1855-12-08T00:00:00Z,"Vologda Oblast, Russia",1935-10-01T00:00:00Z,"Moscow, Moscow Federal City, Russia",Novodevichye Cemetery,2,
+100520525,,Mary Franklin Barrett,1879-08-25T00:00:00Z,"Bloomfield, Essex County, New Jersey, USA",1972-02-26T00:00:00Z,"Bloomfield, Essex County, New Jersey, USA",Bloomfield Cemetery,,Randolph Coe Barrett Sr
+100521364,,Anastasiya Alexeevna Verbitskaya,1861-02-23T00:00:00Z,,1928-01-16T00:00:00Z,,Novodevichye Cemetery,,
+100523472,,Elizabeth Kelsey,1845-04-20T00:00:00Z,"Hightstown, Mercer County, New Jersey, USA",1909-03-06T00:00:00Z,"White Plains, Westchester County, New York, USA",White Plains Rural Cemetery,,"Ianthe C ""Annie"" Willis"
+100525382,,Addison Peale Russell,1826-09-08T00:00:00Z,"Wilmington, Clinton County, Ohio, USA",1912-07-24T00:00:00Z,"Wilmington, Clinton County, Ohio, USA",Sugar Grove Cemetery,,
+10053,,James Argyle Smith,1831-07-01T00:00:00Z,"Maury County, Tennessee, USA",1901-12-06T00:00:00Z,"Jackson, Hinds County, Mississippi, USA",Greenwood Cemetery,,
+100531794,,Philip Astley,1742-01-08T00:00:00Z,"Newcastle-under-Lyme, Newcastle-Under-Lyme Borough, Staffordshire, England",1814-10-20T00:00:00Z,"Paris, City of Paris, Île-de-France, France",Cimetière du Père Lachaise,Headstone has not been visible for years,
+100532606,,Eugene A. Ronzani,1909-03-28T00:00:00Z,"Iron Mountain, Dickinson County, Michigan, USA",1975-09-12T00:00:00Z,"Lac du Flambeau, Vilas County, Wisconsin, USA",Iron Mountain Cemetery Park,"Miwaum, Lot 63","Justine ""Gustina"" Ronzani"
+100532669,,Walter E. Marks,1905-02-26T00:00:00Z,USA,1992-02-26T00:00:00Z,USA,Roselawn Memorial Park,mausoleum,
+100535285,,Bishop Charles Arthur Brown,1919-08-20T00:00:00Z,"Highbridge, Bronx County, New York, USA",1997-05-14T00:00:00Z,"Sleepy Hollow, Westchester County, New York, USA",Catedral de Santa Cruz,,
+100538006,,Sir Richard Wingfield,1550-02-26T00:00:00Z,,1634-09-09T00:00:00Z,,,,John Wingfield
+10054,,William “Extra Billy” Smith,1797-09-06T00:00:00Z,"King George County, Virginia, USA",1887-05-18T00:00:00Z,"Warrenton, Fauquier County, Virginia, USA",Hollywood Cemetery,"Section G, Plot 97",
+100542764,,Dr Samuel Theobald,1846-11-12T00:00:00Z,"Baltimore, Baltimore City, Maryland, USA",1930-12-20T00:00:00Z,"Baltimore, Baltimore City, Maryland, USA",Loudon Park Cemetery,CC 24-26,Alice Julietta Theobald
+10054498,,Carl Nielsen,1865-06-09T00:00:00Z,"Norre Lyndelse, Faaborg-Midtfyn Kommune, Syddanmark, Denmark",1931-10-03T00:00:00Z,"Copenhagen, Kobenhavns Kommune, Hovedstaden, Denmark",Western Cemetery,,
+100546198,,Capt Rees Griffith Richards,1842-07-22T00:00:00Z,"Swansea, Wales",1917-02-10T00:00:00Z,"Steubenville, Jefferson County, Ohio, USA",Union Cemetery,,
+100549819,,Sybil,1878-12-13T00:00:00Z,,1946-12-06T00:00:00Z,,,,
+10055,,William Edwin Starke,1814-02-26T00:00:00Z,"Brunswick County, Virginia, USA",1862-09-17T00:00:00Z,"Sharpsburg, Washington County, Maryland, USA",Hollywood Cemetery,"Section C, Plot 160",Peter B. Starke
+100551771,,Nathaniel Phillips Smith Thomas,1844-11-17T00:00:00Z,"Wickford, Washington County, Rhode Island, USA",1890-04-12T00:00:00Z,"Providence, Providence County, Rhode Island, USA",Elm Grove Cemetery,Lot-37,Clarence Eugene Thomas
+100552734,,Dr Martha Dreesbach,1929-09-03T00:00:00Z,,1980-08-25T00:00:00Z,,Bogenhausener Friedhof,64,
+100552754,,Dr Hermann Schwarz,1908-03-29T00:00:00Z,"Nördlingen, Landkreis Donau-Ries, Bavaria, Germany",1995-11-10T00:00:00Z,"Munich, Stadtkreis München, Bavaria, Germany",Bogenhausener Friedhof,74,
+100555481,,Wilfrid Hamel,1895-07-16T00:00:00Z,"L'Ancienne-Lorette, Capitale-Nationale Region, Quebec, Canada",1968-12-31T00:00:00Z,"Quebec, Capitale-Nationale Region, Quebec, Canada",L'Ancienne-Lorette Cemetery,,
+100555872,,Dr Benjamin Blackford,1834-09-08T00:00:00Z,"Page County, Virginia, USA",1905-12-13T00:00:00Z,"Staunton City, Virginia, USA",Spring Hill Cemetery,Sec-U Lot-26 Spc-6,Mary Isabella Blackford Gwatkin
+10055624,,Brian Lee Traxler,1967-09-26T00:00:00Z,"Waukegan, Lake County, Illinois, USA",2004-11-19T00:00:00Z,"San Antonio, Bexar County, Texas, USA",,,
+10055887,,William Sackheim,1919-10-31T00:00:00Z,"Gloversville, Fulton County, New York, USA",2004-12-01T00:00:00Z,"Beverly Hills, Los Angeles County, California, USA",Westwood Memorial Park,,
+10056,,Walter Husted Stevens,1827-08-24T00:00:00Z,"Penn Yan, Yates County, New York, USA",1867-11-12T00:00:00Z,"Veracruz, Veracruz Municipality, Veracruz de Ignacio de la Llave, Mexico",Hollywood Cemetery,,Elizabeth Rice Stevens Bartlett
+10056325,,Sir Robert Graham Stephens,1931-07-14T00:00:00Z,"Shirehampton, Bristol Unitary Authority, Bristol, England",1995-11-12T00:00:00Z,"London, City of London, Greater London, England",Golders Green Crematorium,,
+10056330,,Serge Marquand,1930-03-12T00:00:00Z,"Marseille, Departement des Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France",2004-09-04T00:00:00Z,"Paris, City of Paris, Île-de-France, France",,,
+10056379,,Eric Merriman,1924-12-06T00:00:00Z,"Golders Green, London Borough of Barnet, Greater London, England",2003-06-02T00:00:00Z,"London, City of London, Greater London, England",Golders Green Crematorium,,
+10056720,,Frances Chaney,1915-07-23T00:00:00Z,"Odessa, Odesa Raion, Odeska, Ukraine",2004-11-23T00:00:00Z,"Manhattan, New York County, New York, USA",,,
+100568238,,Clement Gordon Lyle Dayman,1892-12-30T00:00:00Z,"Salisbury City, South Australia, Australia",1967-07-24T00:00:00Z,"Daw Park, Mitcham City, South Australia, Australia",Cheltenham Cemetery,,
+100568245,,Leslie Clarence Dayman,1901-10-28T00:00:00Z,"Salisbury City, South Australia, Australia",1979-03-11T00:00:00Z,"Alberton, Port Adelaide Enfield City, South Australia, Australia",Cheltenham Cemetery,"Lawn, Drive D, Row 24, Site 458C",
+100569506,,Michael George Donaghy,1878-02-26T00:00:00Z,,1929-11-26T00:00:00Z,,Cheltenham Cemetery,,
+10056998,,Dr William Foushee Sr.,1749-02-26T00:00:00Z,"Virginia, USA",1824-02-26T00:00:00Z,"Richmond City, Virginia, USA",Shockoe Hill Cemetery,"Range 12, Sec. 7, Q.S. 2",John Foushee Jr
+10057,,Isaac Munroe St. John,1827-11-19T00:00:00Z,"Augusta, Richmond County, Georgia, USA",1880-04-07T00:00:00Z,"White Sulphur Springs, Greenbrier County, West Virginia, USA",Hollywood Cemetery,,
+10057099,,Ed Paschke,1939-06-22T00:00:00Z,"Chicago, Cook County, Illinois, USA",2004-11-25T00:00:00Z,"Chicago, Cook County, Illinois, USA",Graceland Cemetery,"Ridgeland Section, Lot 7 sublot 3, Grave #2",
+100577381,,Robert Johnston Rice,1898-01-25T00:00:00Z,,1980-12-31T00:00:00Z,,Clinton Cemetery,,
+100579928,,Clinton Chappell Howard,1884-10-22T00:00:00Z,"Selma, Dallas County, Alabama, USA",1955-07-16T00:00:00Z,"Miami-Dade County, Florida, USA",Live Oak Cemetery,,Smith Graham Howard Sr
+10058,,William Richard Terry,1827-03-12T00:00:00Z,"Bedford County, Virginia, USA",1897-03-28T00:00:00Z,"Chesterfield County, Virginia, USA",Hollywood Cemetery,"Section L, Plot 12",
+10058170,,Elvira Madigan,1867-12-04T00:00:00Z,"Flensburg, Stadtkreis Flensburg, Schleswig-Holstein, Germany",1889-07-19T00:00:00Z,"Norreskov, Svendborg Kommune, Syddanmark, Denmark",Landet Churchyard,,Motalia Maria Madigan
+100582617,,Edwin G Wilson,1887-08-09T00:00:00Z,,1955-06-08T00:00:00Z,,River View Cemetery,"Sec 123, Lot 277, Grave 1",
+100582619,,Iva,1892-02-26T00:00:00Z,,1953-08-01T00:00:00Z,,River View Cemetery,"Sec 123, Lot 277, Grave 2",
+100585585,,Dr Felix Burda-Stengel,1967-11-25T00:00:00Z,,2001-02-25T00:00:00Z,,Bogenhausener Friedhof,100,
+10059,,Thomas Fentress Toon,1840-06-10T00:00:00Z,,1902-02-19T00:00:00Z,"Raleigh, Wake County, North Carolina, USA",Oakwood Cemetery,ANDERSON N 4,Pvt Luther Toon
+100598182,,William Matthews Blackford,1801-08-19T00:00:00Z,"Catoctin Furnace, Frederick County, Maryland, USA",1864-04-14T00:00:00Z,"Lynchburg City, Virginia, USA",Spring Hill Cemetery,Sec-U Lot-89 Spc-4,Dr Thomas Thornburgh Blackford
+100599833,,Gen William Billings Sheldon,1805-02-26T00:00:00Z,"New York, USA",1847-10-20T00:00:00Z,USA,Oak Hill Cemetery,034-04-4,Job Sheldon
+1006,,William Graham Sumner,1840-10-30T00:00:00Z,"Paterson, Passaic County, New Jersey, USA",1910-04-12T00:00:00Z,"Englewood, Bergen County, New Jersey, USA",Alder Brook Cemetery,,
+10060,,Reuben Lindsay Walker,1827-05-29T00:00:00Z,"Albemarle County, Virginia, USA",1890-06-07T00:00:00Z,"Fluvanna County, Virginia, USA",Hollywood Cemetery,"Section 20, Plot 61",
+10060020,,Tom Reddin,1916-06-25T00:00:00Z,"New York, New York County, New York, USA",2004-12-04T00:00:00Z,"Los Angeles, Los Angeles County, California, USA",Hollywood Forever,"Garden of Legends (formerly Section 8), Lot 2400, Grave 5 (southwest area)",
+10060204,,Geoffrey St. George Shillington Cather,1890-10-11T00:00:00Z,"Streatham Hill, London Borough of Lambeth, Greater London, England",1916-07-02T00:00:00Z,"Le Hamel, Departement de la Somme, Picardie, France",Thiepval Memorial,Pier and Face 15 A.,
+100602958,,Nada Žerjav-Abarth,1912-03-05T00:00:00Z,Slovenia,2000-09-16T00:00:00Z,"Ljubljana, Mestna občina Ljubljana, Osrednjeslovenska, Slovenia",Žale Central Cemetery,,
+10060407,,John Griffiths,1835-02-26T00:00:00Z,"Cardiff, Wales",,,Sailors Home Cemetery,,
+10060442,,Luke M. Griswold,1837-02-26T00:00:00Z,"Massachusetts, USA",1892-03-18T00:00:00Z,"Springfield, Hampden County, Massachusetts, USA",Oak Grove Cemetery,"Section A, Grave 297",
+10060564,,Edmund Haffee,1832-02-26T00:00:00Z,"Philadelphia, Philadelphia County, Pennsylvania, USA",,,,,
+100606355,,Lilian Warren “Lily”,1854-06-10T00:00:00Z,"Troy, Rensselaer County, New York, USA",1909-01-11T00:00:00Z,"Dorking, Mole Valley District, Surrey, England",Clonagam Churchyard,Beresford Family Crypt,Cora Elizabeth Price
+100607266,,Adm Herbert Spencer Duckworth,1900-10-23T00:00:00Z,"Keosauqua, Van Buren County, Iowa, USA",1990-05-29T00:00:00Z,"Jacksonville, Duval County, Florida, USA",Arlington National Cemetery,"Section 8, Site 5279-A",
+100607860,,Allan Cree,1910-02-26T00:00:00Z,,1998-02-26T00:00:00Z,,Hansens Desert Hills Memorial Park and Mortuary,SOLACE NICHE GARDEN I,
+10060800,,James Cleland Richardson,1895-11-25T00:00:00Z,"Bellshill, North Lanarkshire, Scotland",1916-10-09T00:00:00Z,"Departement de la Somme, Picardie, France",Adanac Military Cemetery,III.F.36.,Mary Prosser Richardson Murdoch
+10060850,,Oliver Cyril Spencer Watson,1876-09-07T00:00:00Z,"Westminster, City of Westminster, Greater London, England",1918-03-28T00:00:00Z,,Arras Memorial,"No known grave; name on the Arras Memorial, Bay 1",
+10061,,GEN David Addison Weisiger,1818-12-23T00:00:00Z,"Chesterfield County, Virginia, USA",1899-02-23T00:00:00Z,"Richmond, Richmond City, Virginia, USA",Blandford Cemetery,"Ward C, Old Ground, Section 10, Square 2",Joseph Kendall Weisiger
+100610062,,MG Robert Lily Spragins,1890-11-12T00:00:00Z,"Huntsville, Madison County, Alabama, USA",1964-12-26T00:00:00Z,"Huntsville, Madison County, Alabama, USA",Maple Hill Cemetery,"Block 101, Lot 53",William Echols Spragins
+100610321,,Amasa Angell Redfield,1837-05-19T00:00:00Z,"Clyde, Wayne County, New York, USA",1902-10-19T00:00:00Z,"Farmington, Hartford County, Connecticut, USA",Bloomfield Cemetery,,Jay Ward Redfield
+10061139,,Justo José De Urquiza,1801-10-18T00:00:00Z,"Entre Rios, Argentina",1870-04-11T00:00:00Z,"Entre Rios, Argentina",Iglesia de Concepcion del Uruguay,,
+10061348,,Dimebag Darrell,1966-08-20T00:00:00Z,"Ennis, Ellis County, Texas, USA",2004-12-08T00:00:00Z,"Columbus, Franklin County, Ohio, USA",Moore Memorial Gardens Cemetery,"Lakeside Estates, Family Plot",Vinnie Paul
+10061383,,Nadine Renee,1972-02-09T00:00:00Z,"New York, New York County, New York, USA",2004-12-02T00:00:00Z,"Miami, Miami-Dade County, Florida, USA",Star of David Memorial Gardens,Judea Mausoleum Section J,
+10061606,,Carol Henry,1918-07-14T00:00:00Z,"Walters, Cotton County, Oklahoma, USA",1987-09-17T00:00:00Z,"North Hollywood, Los Angeles County, California, USA",Valhalla Memorial Park,"Lot 1, Section 4070, Grave D",
+10061627,,Jim Corey,1889-03-22T00:00:00Z,"Buffalo, Erie County, New York, USA",1950-03-26T00:00:00Z,"Burbank, Los Angeles County, California, USA",Valhalla Memorial Park,"Memorial Block G, Section 7770, Lot 5",
+10061661,,Stan Smrke,1928-09-02T00:00:00Z,"Belgrade, Belgrade, City of Belgrade, Serbia",1977-04-13T00:00:00Z,"Toronto, Toronto Municipality, Ontario, Canada",Mount Hope Catholic Cemetery,,
