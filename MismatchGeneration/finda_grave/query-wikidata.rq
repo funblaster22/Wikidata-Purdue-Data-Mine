@@ -1,0 +1,72 @@
+PREFIX wikibase: <http://wikiba.se/ontology#> 
+PREFIX wdt: <http://www.wikidata.org/prop/direct/> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX p: <http://www.wikidata.org/prop/> 
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?person ?name 
+  (GROUP_CONCAT(DISTINCT ?findAGraveID;separator=";") AS ?findAGraveIDs) (GROUP_CONCAT(DISTINCT ?findAGraveID_guid;separator=";") AS ?findAGraveID_guids)
+  (GROUP_CONCAT(DISTINCT ?birthday;separator=";") AS ?birthdays) (GROUP_CONCAT(DISTINCT ?birthday_guid;separator=";") AS ?birthdays_guids) 
+  (GROUP_CONCAT(DISTINCT ?birthplace;separator=";") AS ?birthplaces) (GROUP_CONCAT(DISTINCT ?birthplace_guid;separator=";") AS ?birthplaces_guids) 
+  (GROUP_CONCAT(DISTINCT ?deathday;separator=";") AS ?deathdays) (GROUP_CONCAT(DISTINCT ?deathday_guid;separator=";") AS ?deathdays_guids) 
+  (GROUP_CONCAT(DISTINCT ?deathplace;separator=";") AS ?deathplaces) (GROUP_CONCAT(DISTINCT ?deathplace_guid;separator=";") AS ?deathplaces_guids) 
+  (GROUP_CONCAT(DISTINCT ?burial;separator=";") AS ?burials) (GROUP_CONCAT(DISTINCT ?burial_guid;separator=";") AS ?burials_guids) 
+  (GROUP_CONCAT(DISTINCT ?plot;separator=";") AS ?plots) (GROUP_CONCAT(DISTINCT ?plot_guid;separator=";") AS ?plots_guids) 
+  (GROUP_CONCAT(DISTINCT ?father;separator=";") AS ?fathers) (GROUP_CONCAT(DISTINCT ?father_guid;separator=";") AS ?fathers_guids) 
+  (GROUP_CONCAT(DISTINCT ?mother;separator=";") AS ?mothers) (GROUP_CONCAT(DISTINCT ?mother_guid;separator=";") AS ?mothers_guids) 
+  (GROUP_CONCAT(DISTINCT ?sibling;separator=";") AS ?siblings) (GROUP_CONCAT(DISTINCT ?sibling_guid;separator=";") AS ?siblings_guids) 
+WHERE {  
+  ?person wdt:P31 wd:Q5.
+  ?person wdt:P535 ?findAGraveID.
+  ?person p:P535 ?findAGraveID_guid.
+  ?person rdfs:label ?name . 
+  OPTIONAL{ 
+      ?person wdt:P569 ?birthday ; 
+          p:P569 ?birthday_guid 
+  } 
+  OPTIONAL{ 
+    ?person wdt:P19 ?q_birthplace; 
+        p:P19 ?birthplace_guid; 
+            rdfs:label ?birthplace. 
+    FILTER (LANG(?birthplace) = "en") 
+  } 
+  OPTIONAL{ 
+    ?person wdt:P570 ?deathday ; 
+        p:P570 ?deathday_guid. 
+  } 
+  OPTIONAL{ 
+    ?person wdt:P20 ?q_deathplace ; 
+        p:P20 ?deathplace_guid; 
+            rdfs:label ?deathplace. 
+    FILTER (LANG(?deathplace) = "en") 
+  } 
+  OPTIONAL{ 
+    ?person wdt:P119 ?q_burial ; 
+        p:P119 ?burial_guid; 
+            rdfs:label ?burial. 
+    FILTER (LANG(?burial) = "en") 
+  } 
+  OPTIONAL{ 
+    ?person wdt:P22 ?q_father ; 
+        p:P22 ?father_guid; 
+            rdfs:label ?father. 
+    FILTER (LANG(?father) = "en") 
+  } 
+  OPTIONAL{ 
+    ?person wdt:P25 ?q_mother ; 
+        p:P25 ?mother_guid; 
+            rdfs:label ?mother. 
+    FILTER (LANG(?mother) = "en") 
+  } 
+  OPTIONAL{ 
+    ?person wdt:P965 ?plot ; 
+        p:P965 ?plot_guid. 
+  } 
+  OPTIONAL { 
+    ?person wdt:P3373 ?q_sibling ; 
+        p:P3373 ?sibling_guid; 
+            rdfs:label ?sibling. 
+    FILTER (LANG(?sibling) = "en") 
+  } 
+  FILTER (LANG(?name) = "en") 
+} 
+GROUP BY ?person ?nam
