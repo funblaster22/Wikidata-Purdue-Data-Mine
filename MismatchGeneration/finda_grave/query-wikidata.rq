@@ -3,7 +3,9 @@ PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
 PREFIX p: <http://www.wikidata.org/prop/> 
 PREFIX wd: <http://www.wikidata.org/entity/>
-SELECT ?person ?name 
+SELECT ?person ?name
+  # I've learned the hard way you should not agregate entries like this. It adds complexity & causes len(thing) to mismatch with len(thing_guids) due to DISTINCT qualifier
+  # Removing DISTINCT qualifier causes query to time out & become duplicated too many times
   (GROUP_CONCAT(DISTINCT ?findAGraveID;separator=";") AS ?findAGraveIDs) (GROUP_CONCAT(DISTINCT ?findAGraveID_guid;separator=";") AS ?findAGraveID_guids)
   (GROUP_CONCAT(DISTINCT ?birthday;separator=";") AS ?birthdays) (GROUP_CONCAT(DISTINCT ?birthday_guid;separator=";") AS ?birthdays_guids) 
   (GROUP_CONCAT(DISTINCT ?birthplace;separator=";") AS ?birthplaces) (GROUP_CONCAT(DISTINCT ?birthplace_guid;separator=";") AS ?birthplaces_guids) 
