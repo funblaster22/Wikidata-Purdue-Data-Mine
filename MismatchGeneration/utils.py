@@ -1,8 +1,5 @@
 """
-Utils
------
-
-This file contains utility functions for accessing Wikidata's data and checking Mismatch Finder submissions.
+Utility functions for accessing Wikidata's data and checking Mismatch Finder submissions.
 
 Contents:
     download_wikidata_json_dump,
@@ -28,7 +25,6 @@ from tqdm.auto import tqdm
 
 logging.disable(logging.WARNING)
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "3"
-import tensorflow as tf
 
 
 def download_wikidata_json_dump(target_dir="Data", dump_id=False):
@@ -47,6 +43,8 @@ def download_wikidata_json_dump(target_dir="Data", dump_id=False):
     -------
         A downloaded bz2 compressed Wikidata dump with printed information on the downloaded file.
     """
+    import tensorflow as tf
+
     if not os.path.exists(target_dir):
         print(f"Making {target_dir} directory")
         os.makedirs(target_dir)
@@ -257,7 +255,7 @@ def _process_json_entry(
                     _get_claims_embedded_value(
                         claims_index=prop_claims[pid][idx],
                         data_type=data_type,
-                        value_prop=None
+                        value_prop=None,
                     )
                     for idx in range(len(prop_claims[pid]))
                 ]
@@ -267,7 +265,7 @@ def _process_json_entry(
                     _get_claims_embedded_value(
                         claims_index=prop_claims[pid][idx],
                         data_type=data_type,
-                        value_prop=pid_value_props[i]
+                        value_prop=pid_value_props[i],
                     )
                     for idx in range(len(prop_claims[pid]))
                 ]
@@ -328,18 +326,20 @@ def parse_wikidata_dump_to_ndjson(
         )
 
     if pid_values:
-        assert len(pids) == len(
-            pid_values
+        assert (
+            len(pids) == len(pid_values)
         ), "If providing a value for `pid_values`, then one value should be provided for each `pid`."
 
     if pid_value_props:
-        assert len(pids) == len(
-            pid_value_props
+        assert (
+            len(pids) == len(pid_value_props)
         ), "If providing a value for `pid_value_props`, then one value should be provided for each `pid` (pass None if not needed)."
 
     pids = [pids] if isinstance(pids, str) else pids
     pid_values = [pid_values] if isinstance(pid_values, str) else pid_values
-    pid_value_props = [pid_value_props] if isinstance(pid_value_props, str) else pid_value_props
+    pid_value_props = (
+        [pid_value_props] if isinstance(pid_value_props, str) else pid_value_props
+    )
 
     rewrite_file = False
     if not os.path.exists(output_file_path):

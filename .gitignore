@@ -1,6 +1,7 @@
 # Editor files
 ##############
-.vscode/
+.vscode/*
+!.vscode/extensions.json
 .ipynb_checkpoints
 
 # OS files
