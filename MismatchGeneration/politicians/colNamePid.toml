@@ -1,0 +1,107 @@
+# Mapping columns to PIDs and downloading Wikidata data. To skip column, leave blank. Should start with capital 'P'
+
+# example: Brown
+last_name = "P734"
+
+# example: Sherrod
+first_name = "P735"
+
+# example: L.
+middle_name = ""
+
+# example: Jr.
+suffix = "P8017"
+
+# example: Bob
+nickname = "P1449"
+
+# example: Sherrod Brown
+full_name = ""
+
+# example: 1952-11-09
+birthday = "P569"
+
+# example: M
+gender = "P21"
+
+# example: sen
+type = "P39"
+
+# example: OH
+state = ""
+
+# example: 4.0
+district = "P39.P768"
+
+# example: 1.0
+senate_class = ""
+
+# example: Democrat
+party = "P102"
+
+# example: https://www.brown.senate.gov
+url = "P856"
+
+# example: 503 Hart Senate Office Building Washington DC 20510
+address = "P937"
+
+# example: 202-224-2315
+phone = "P1329"
+
+# example: https://www.brown.senate.gov/contact/
+contact_form = ""
+
+# example: http://www.brown.senate.gov/rss/feeds/?type=all&amp;
+rss_url = ""
+
+# example: SenSherrodBrown
+twitter = ""
+
+# example: 43910797.0
+twitter_id = ""
+
+# example: SenatorSherrodBrown
+facebook = ""
+
+# example: SherrodBrownOhio
+youtube = ""
+
+# example: UCgy8jfERh-t_ixkKKoCmglQ
+youtube_id = ""
+
+# example: @RepRaulGrijalva@mastodon.social
+mastodon = ""
+
+# example: B000944
+bioguide_id = ""
+
+# example: 136.0
+thomas_id = ""
+
+# example: N00003535
+opensecrets_id = ""
+
+# example: S307
+lis_id = ""
+
+# example: H2OH13033,S6OH00163
+fec_ids = ""
+
+# example: 5051.0
+cspan_id = ""
+
+# example: 400050
+govtrack_id = ""
+
+# example: 27018.0
+votesmart_id = ""
+
+# example: Sherrod Brown
+ballotpedia_id = ""
+
+# example: 29389.0
+icpsr_id = ""
+
+# example: Sherrod Brown
+wikipedia_id = ""
+
