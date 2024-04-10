@@ -6,8 +6,10 @@ PREFIX wd: <http://www.wikidata.org/entity/>
 SELECT (SAMPLE(SUBSTR(STR(?_qid), 32)) AS ?qid)  #< selection >#
 WHERE {
   #< Extra constraints >#
-  ?_qid wdt:P00 ?target_col.
-  ?_qid p:P00 ?target_col_guid.
+  ?_qid wdt:PJOIN ?_join_col.
+  ?_qid p:PJOIN ?_join_col_guid.
+  ?_qid wdt:PDATA ?_target_col.
+  ?_qid p:PDATA ?_target_col_guid.
   ?_qid rdfs:label ?_name .
 }
 GROUP BY ?_qid

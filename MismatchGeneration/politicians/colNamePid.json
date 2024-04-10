@@ -1,1 +1,170 @@
-{"__instructions": "# Mapping columns to PIDs and downloading Wikidata data. To skip column, leave 'p' property blank. PIDs should start with capital 'P'. 'pname' is automatically generated", "last_name": {"example": "Brown", "p": "P734", "pname": "family name"}, "first_name": {"example": "Sherrod", "p": "P735", "pname": "given name"}, "middle_name": {"example": "L.", "p": ""}, "suffix": {"example": "Jr.", "p": "P8017", "pname": "generational suffix"}, "nickname": {"example": "Bob", "p": "P1449", "pname": "nickname"}, "full_name": {"example": "Sherrod Brown", "p": ""}, "birthday": {"example": "1952-11-09", "p": "P569", "pname": "date of birth"}, "gender": {"example": "M", "p": "P21", "pname": "sex or gender"}, "type": {"example": "sen", "p": "P39", "pname": "position held"}, "state": {"example": "OH", "p": ""}, "district": {"example": "4.0", "p": "P39.P768"}, "senate_class": {"example": "1.0", "p": ""}, "party": {"example": "Democrat", "p": "P102", "pname": "member of political party"}, "url": {"example": "https://www.brown.senate.gov", "p": "P856", "pname": "official website"}, "address": {"example": "503 Hart Senate Office Building Washington DC 20510", "p": "P937", "pname": "work location"}, "phone": {"example": "202-224-2315", "p": "P1329", "pname": "phone number"}, "contact_form": {"example": "https://www.brown.senate.gov/contact/", "p": "P11266", "pname": "contact page URL"}, "rss_url": {"example": "http://www.brown.senate.gov/rss/feeds/?type=all&amp;", "p": "P1019", "pname": "web feed URL"}, "twitter": {"example": "SenSherrodBrown", "p": "P2002", "pname": "X username"}, "twitter_id": {"example": "43910797.0", "p": "P2002.P6552"}, "facebook": {"example": "SenatorSherrodBrown", "p": "P2013", "pname": "Facebook username"}, "youtube": {"example": "SherrodBrownOhio", "p": "P2397.P11245"}, "youtube_id": {"example": "UCgy8jfERh-t_ixkKKoCmglQ", "p": "P2397", "pname": "YouTube channel ID"}, "mastodon": {"example": "@RepRaulGrijalva@mastodon.social", "p": "P1855", "pname": "Wikidata property example"}, "bioguide_id": {"example": "B000944", "p": "P1157", "pname": "US Congress Bio ID"}, "thomas_id": {"example": "136.0", "p": ""}, "opensecrets_id": {"example": "N00003535", "p": "P2686", "pname": "OpenSecrets people ID"}, "lis_id": {"example": "S307", "p": ""}, "fec_ids": {"example": "H2OH13033,S6OH00163", "p": ""}, "cspan_id": {"example": "5051.0", "p": "P10660", "pname": "C-SPAN person numeric ID"}, "govtrack_id": {"example": "400050", "p": ""}, "votesmart_id": {"example": "27018.0", "p": "P3344", "pname": "Vote Smart candidate ID"}, "ballotpedia_id": {"example": "Sherrod Brown", "p": "P2390", "pname": "Ballotpedia ID"}, "icpsr_id": {"example": "29389.0", "p": ""}, "wikipedia_id": {"example": "Sherrod Brown", "p": ""}, "__joinProp": "P10660"}
+{
+  "__instructions": "# Mapping columns to PIDs and downloading Wikidata data. To skip column, leave 'p' property blank. PIDs should start with capital 'P'. 'pname' is automatically generated",
+  "last_name": {
+    "example": "Brown",
+    "p": "P734",
+    "pname": "family name"
+  },
+  "first_name": {
+    "example": "Sherrod",
+    "p": "P735",
+    "pname": "given name"
+  },
+  "middle_name": {
+    "example": "L.",
+    "p": ""
+  },
+  "suffix": {
+    "example": "Jr.",
+    "p": "P8017",
+    "pname": "generational suffix"
+  },
+  "nickname": {
+    "example": "Bob",
+    "p": "P1449",
+    "pname": "nickname"
+  },
+  "full_name": {
+    "example": "Sherrod Brown",
+    "p": ""
+  },
+  "birthday": {
+    "example": "1952-11-09",
+    "p": "P569",
+    "pname": "date of birth"
+  },
+  "gender": {
+    "example": "M",
+    "p": "P21",
+    "pname": "sex or gender"
+  },
+  "type": {
+    "example": "sen",
+    "p": "P39",
+    "pname": "position held"
+  },
+  "state": {
+    "example": "OH",
+    "p": ""
+  },
+  "district": {
+    "example": "4.0",
+    "p": "P39.P768"
+  },
+  "senate_class": {
+    "example": "1.0",
+    "p": ""
+  },
+  "party": {
+    "example": "Democrat",
+    "p": "P102",
+    "pname": "member of political party"
+  },
+  "url": {
+    "example": "https://www.brown.senate.gov",
+    "p": "P856",
+    "pname": "official website"
+  },
+  "address": {
+    "example": "503 Hart Senate Office Building Washington DC 20510",
+    "p": "P937",
+    "pname": "work location"
+  },
+  "phone": {
+    "example": "202-224-2315",
+    "p": "P1329",
+    "pname": "phone number"
+  },
+  "contact_form": {
+    "example": "https://www.brown.senate.gov/contact/",
+    "p": "P11266",
+    "pname": "contact page URL"
+  },
+  "rss_url": {
+    "example": "http://www.brown.senate.gov/rss/feeds/?type=all&amp;",
+    "p": "P1019",
+    "pname": "web feed URL"
+  },
+  "twitter": {
+    "example": "SenSherrodBrown",
+    "p": "P2002",
+    "pname": "X username"
+  },
+  "twitter_id": {
+    "example": "43910797.0",
+    "p": "P2002.P6552"
+  },
+  "facebook": {
+    "example": "SenatorSherrodBrown",
+    "p": "P2013",
+    "pname": "Facebook username"
+  },
+  "youtube": {
+    "example": "SherrodBrownOhio",
+    "p": "P2397.P11245"
+  },
+  "youtube_id": {
+    "example": "UCgy8jfERh-t_ixkKKoCmglQ",
+    "p": "P2397",
+    "pname": "YouTube channel ID"
+  },
+  "mastodon": {
+    "example": "@RepRaulGrijalva@mastodon.social",
+    "p": "P1855",
+    "pname": "Wikidata property example"
+  },
+  "bioguide_id": {
+    "example": "B000944",
+    "p": "P1157",
+    "pname": "US Congress Bio ID"
+  },
+  "thomas_id": {
+    "example": "136.0",
+    "p": ""
+  },
+  "opensecrets_id": {
+    "example": "N00003535",
+    "p": "P2686",
+    "pname": "OpenSecrets people ID"
+  },
+  "lis_id": {
+    "example": "S307",
+    "p": ""
+  },
+  "fec_ids": {
+    "example": "H2OH13033,S6OH00163",
+    "p": ""
+  },
+  "cspan_id": {
+    "example": "5051.0",
+    "p": "P10660",
+    "pname": "C-SPAN person numeric ID"
+  },
+  "govtrack_id": {
+    "example": "400050",
+    "p": ""
+  },
+  "votesmart_id": {
+    "example": "27018.0",
+    "p": "P3344",
+    "pname": "Vote Smart candidate ID"
+  },
+  "ballotpedia_id": {
+    "example": "Sherrod Brown",
+    "p": "P2390",
+    "pname": "Ballotpedia ID"
+  },
+  "icpsr_id": {
+    "example": "29389.0",
+    "p": ""
+  },
+  "wikipedia_id": {
+    "example": "Sherrod Brown",
+    "p": ""
+  },
+  "__joinProp": "P10660",
+  "washington_post_id": {
+    "example": "None",
+    "p": ""
+  }
+}
