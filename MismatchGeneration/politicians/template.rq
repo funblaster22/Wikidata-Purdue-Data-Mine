@@ -3,7 +3,7 @@ PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
 PREFIX p: <http://www.wikidata.org/prop/> 
 PREFIX wd: <http://www.wikidata.org/entity/>
-SELECT (SAMPLE(?_qid) AS ?qid)  #< selection >#
+SELECT (SAMPLE(SUBSTR(STR(?_qid), 32)) AS ?qid)  #< selection >#
 WHERE {
   #< Extra constraints >#
   ?_qid wdt:P00 ?target_col.
