@@ -3,7 +3,7 @@ PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
 PREFIX p: <http://www.wikidata.org/prop/> 
 PREFIX wd: <http://www.wikidata.org/entity/>
-SELECT ?person ?name
+SELECT ?person (SAMPLE(DISTINCT ?_name) AS ?name)
   # I've learned the hard way you should not agregate entries like this. It adds complexity & causes len(thing) to mismatch with len(thing_guids) due to DISTINCT qualifier
   # Removing DISTINCT qualifier causes query to time out & become duplicated too many times
   (GROUP_CONCAT(DISTINCT ?findAGraveID;separator=";") AS ?findAGraveIDs) (GROUP_CONCAT(DISTINCT ?findAGraveID_guid;separator=";") AS ?findAGraveID_guids)
@@ -20,15 +20,15 @@ WHERE {
   ?person wdt:P31 wd:Q5.
   ?person wdt:P535 ?findAGraveID.
   ?person p:P535 ?findAGraveID_guid.
-  ?person rdfs:label ?name . 
+  ?person rdfs:label ?_name . 
   OPTIONAL{ 
       ?person wdt:P569 ?birthday ; 
           p:P569 ?birthday_guid 
   } 
   OPTIONAL{ 
     ?person wdt:P19 ?q_birthplace; 
-        p:P19 ?birthplace_guid; 
-            rdfs:label ?birthplace. 
+        p:P19 ?birthplace_guid.
+    ?q_birthplace rdfs:label ?birthplace. 
     FILTER (LANG(?birthplace) = "en") 
   } 
   OPTIONAL{ 
@@ -37,26 +37,26 @@ WHERE {
   } 
   OPTIONAL{ 
     ?person wdt:P20 ?q_deathplace ; 
-        p:P20 ?deathplace_guid; 
-            rdfs:label ?deathplace. 
+        p:P20 ?deathplace_guid.
+    ?q_deathplace rdfs:label ?deathplace. 
     FILTER (LANG(?deathplace) = "en") 
   } 
   OPTIONAL{ 
     ?person wdt:P119 ?q_burial ; 
-        p:P119 ?burial_guid; 
-            rdfs:label ?burial. 
+        p:P119 ?burial_guid.
+    ?q_burial rdfs:label ?burial. 
     FILTER (LANG(?burial) = "en") 
   } 
   OPTIONAL{ 
     ?person wdt:P22 ?q_father ; 
-        p:P22 ?father_guid; 
-            rdfs:label ?father. 
+        p:P22 ?father_guid.
+    ?q_father rdfs:label ?father. 
     FILTER (LANG(?father) = "en") 
   } 
   OPTIONAL{ 
     ?person wdt:P25 ?q_mother ; 
-        p:P25 ?mother_guid; 
-            rdfs:label ?mother. 
+        p:P25 ?mother_guid.
+    ?q_mother rdfs:label ?mother. 
     FILTER (LANG(?mother) = "en") 
   } 
   OPTIONAL{ 
@@ -65,10 +65,10 @@ WHERE {
   } 
   OPTIONAL { 
     ?person wdt:P3373 ?q_sibling ; 
-        p:P3373 ?sibling_guid; 
-            rdfs:label ?sibling. 
+        p:P3373 ?sibling_guid.
+    ?q_sibling rdfs:label ?sibling. 
     FILTER (LANG(?sibling) = "en") 
   } 
-  FILTER (LANG(?name) = "en") 
+  FILTER (LANG(?_name) = "en") 
 } 
-GROUP BY ?person ?nam
+GROUP BY ?person
