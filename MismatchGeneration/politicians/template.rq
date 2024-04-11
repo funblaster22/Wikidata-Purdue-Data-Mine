@@ -11,5 +11,9 @@ WHERE {
   ?_qid wdt:PDATA ?_target_col.
   ?_qid p:PDATA ?_target_col_guid.
   ?_qid rdfs:label ?_name .
+  OPTIONAL {
+    ?_target_col rdfs:label ?_target_col_label. 
+    FILTER (LANG(?_target_col_label) = "en") 
+  }
 }
-GROUP BY ?_qid
+GROUP BY ?_qid ?_target_col
