@@ -1,19 +1,15 @@
-PREFIX wikibase: <http://wikiba.se/ontology#> 
-PREFIX wdt: <http://www.wikidata.org/prop/direct/> 
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
-PREFIX p: <http://www.wikidata.org/prop/> 
-PREFIX wd: <http://www.wikidata.org/entity/>
-SELECT (SAMPLE(SUBSTR(STR(?_qid), 32)) AS ?qid)  #< selection >#
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX p: <http://www.wikidata.org/prop/>
+PREFIX ps: <http://www.wikidata.org/prop/statement/>
+SELECT DISTINCT (SUBSTR(STR(?_qid), 32) AS ?qid)  #< selection >#
 WHERE {
   #< Extra constraints >#
-  ?_qid wdt:PJOIN ?_join_col.
+  ?_join_col_guid ps:PJOIN ?_join_col.
   ?_qid p:PJOIN ?_join_col_guid.
-  ?_qid wdt:PDATA ?_target_col.
+  ?_target_col_guid ps:PDATA ?_target_col.
   ?_qid p:PDATA ?_target_col_guid.
-  ?_qid rdfs:label ?_name .
   OPTIONAL {
     ?_target_col rdfs:label ?_target_col_label. 
     FILTER (LANG(?_target_col_label) = "en") 
   }
 }
-GROUP BY ?_qid ?_target_col
