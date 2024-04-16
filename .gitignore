@@ -1,15 +1,12 @@
-# Editor files
-##############
+# Editor Files
 .vscode/*
 !.vscode/extensions.json
 .ipynb_checkpoints
 
-# OS files
-##########
+# OS Files
 .DS_Store
 
-# Python files
-##############
+# Python Files
 # Caches
 __pycache__
 # Virtual Environment
@@ -18,7 +15,12 @@ __pycache__
 env
 venv
 
+# Pywikibot Files
+apicache
+pywikibot*
+throttle.ctrl
+user-config.py
+
 # Data
-######
 *test-parse.ndjson
 *all.json.bz2
