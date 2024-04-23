@@ -1,0 +1,18 @@
+# Gets all preferred values for an item if they exist, otherwise get normal rank (ignores deprecated)
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX p: <http://www.wikidata.org/prop/>
+PREFIX ps: <http://www.wikidata.org/prop/statement/>
+SELECT ?item ?value WHERE {
+  {
+    ?item p:P10660 ?preferredStatement.
+    ?preferredStatement ps:P10660 ?value;
+                      wikibase:rank wikibase:PreferredRank.
+  }
+  UNION
+  {
+    ?item p:P10660 ?regularStatement.
+    ?regularStatement ps:P10660 ?value;
+                     wikibase:rank wikibase:NormalRank.
+    MINUS { ?item p:P10660 [ wikibase:rank wikibase:PreferredRank ]. }
+  }
+}
